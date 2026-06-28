@@ -776,7 +776,13 @@ document.addEventListener("DOMContentLoaded", async () => {
     function registerServiceWorker() {
         if (!("serviceWorker" in navigator)) return;
         navigator.serviceWorker.register("./service-worker.js").then((reg) => {
-            window.addEventListener("focus", () => { reg.update(); });
+            // Look for a new version when the app regains the foreground. Fails
+            // silently offline — the app keeps running from cache, no banner.
+            const checkForUpdate = () => { reg.update().catch(() => {}); };
+            window.addEventListener("focus", checkForUpdate);
+            document.addEventListener("visibilitychange", () => {
+                if (document.visibilityState === "visible") checkForUpdate();
+            });
             reg.addEventListener("updatefound", () => {
                 const sw = reg.installing;
                 if (!sw) return;
