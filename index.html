@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#03045e">
+    <title>מחשבון מחירי מעבדה</title>
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="assets/icons/icon-192.png">
+    <!-- iOS standalone (Safari has no install prompt / web-manifest icons) -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="מחירי מעבדה">
+    <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon-180.png">
+
+    <!-- Local fonts (bundled for offline use; replaces the Google Fonts CDN) -->
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="assets/logo_final.png" alt="לוגו החברה" id="companyLogo">
+        <h1>מחשבון מחירי מעבדה</h1>
+    </header>
+
+    <main id="appMain" class="not-ready">
+        <section id="selectionSection">
+            <h2>בחר מעבדה וסוג מטופל כדי להתחיל:</h2>
+            <div class="choice-row">
+                <div class="choice-group" id="branchButtons" role="group" aria-label="בחר מעבדה">
+                    <span class="group-label">מעבדה</span>
+                    <button type="button" class="choice-btn" data-branch="ramat_hahayal">רמת החייל</button>
+                    <button type="button" class="choice-btn" data-branch="haifa">חיפה</button>
+                </div>
+                <div class="choice-group" id="priceButtons" role="group" aria-label="בחר סוג מטופל">
+                    <span class="group-label">סוג מטופל</span>
+                    <button type="button" class="choice-btn" data-price="private">מטופל פרטי</button>
+                    <button type="button" class="choice-btn" data-price="tourist">תייר</button>
+                </div>
+            </div>
+            <p id="selectionHint">יש לבחור מעבדה <strong>וגם</strong> סוג מטופל כדי להמשיך.</p>
+        </section>
+
+        <section id="nurseVisitSection">
+            <h2>חבילת בסיס (ביקור אחות, ספירת דם, כימיה בדם)</h2>
+            <p>מחיר: <span id="nurseBasePrice">710</span> ש"ח</p>
+            <button id="toggleBaseDiscountBtn" class="discount-toggle-btn">הנחה</button>
+            <div id="baseDiscountContainer" class="discount-input-container hidden">
+                <label for="basePackageDiscount">% הנחה:</label>
+                <input type="number" id="basePackageDiscount" min="0" max="100" value="0">
+            </div>
+        </section>
+
+        <div class="lab-tests-container">
+            <section id="labTestsSection">
+                <h2>מחשבון בדיקות מעבדה</h2>
+                <div class="search-wrapper">
+                    <label for="testSearch">הוסף בדיקה:</label>
+                    <input type="text" id="testSearch" placeholder="חפש בדיקה..." autocomplete="off">
+                    <div id="testSuggestions"></div>
+                </div>
+                <div class="selected-tests-header">
+                    <h3>בדיקות נבחרות:</h3>
+                    <button id="clearAllBtn" type="button" class="clear-all-btn hidden">נקה הכל</button>
+                </div>
+                <ul id="selectedTestsList"></ul>
+                <p>סה"כ בדיקות: <span id="labTestsSubtotal">0</span> ש"ח</p>
+            </section>
+
+            <aside id="testDetailsSection">
+                <h3>פרטי הבדיקה הנבחרת — <span id="detailsBranchLabel">—</span></h3>
+                <div id="testDetailsContent">
+                    <p>בחר בדיקה מהרשימה כדי לראות את פרטיה.</p>
+                    <!-- Details will be populated here -->
+                </div>
+            </aside>
+        </div>
+
+        <section id="summarySection">
+            <h2>סיכום</h2>
+            <p>חבילת בסיס: <span id="summaryNursePrice">710</span> ש"ח</p>
+            <p>סה"כ בדיקות מעבדה: <span id="summaryLabTestsPrice">0</span> ש"ח</p>
+            <h3>סכום סופי לתשלום: <span id="finalAmount">710</span> ש"ח</h3>
+            <div class="summary-actions">
+                <button id="exportPdfButton">ייצא הצעת מחיר ל-PDF</button>
+                <button id="exportStaffPdfButton">ייצא רשימת בדיקות לצוות ל-PDF</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 כל הזכויות שמורות ד"ר עמית גיל</p>
+    </footer>
+
+    <!-- PDF generation libraries (vendored — work offline) -->
+    <script src="assets/lib/html2canvas.min.js"></script>
+    <script src="assets/lib/jspdf.umd.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

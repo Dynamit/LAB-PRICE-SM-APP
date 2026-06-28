@@ -1,0 +1,3066 @@
+{
+  "5022": {
+    "patient_preparation_conditions": "המנע מחסימת כלי דם (טורניקט) ארוכה.\nיש לוודא לקיחה מוריד ללא עירוי.",
+    "tubes": "מבחנת EDTA\nפקק סגול",
+    "sampling_conditions": "לערבב היטב בהיפוך איטי, ללא הקצפה (5 פעמים) מיד לאחר לקיחה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "8 שעות",
+    "results_time": "דחוף: 40 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "5651": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ESR Na citrate 3.2% \nפקק שחור",
+    "sampling_conditions": "לערבב היטב בהיפוך איטי, ללא הקצפה (5 פעמים) מיד לאחר לקיחה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "1-2 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "8883": {
+    "patient_preparation_conditions": "צום של 8 שעות לפחות.",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "צום של 8 שעות לפחות.\nיש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז תוך שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6331": {
+    "patient_preparation_conditions": "צום של 8 שעות לפחות.",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "צום של 8 שעות לפחות.\nיש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז תוך שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6332": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2947": {
+    "patient_preparation_conditions": "צום 8 שעות לפני הבדיקה",
+    "tubes": "מבחנת סוכר- פקק אפור\nמבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "צום של 8 שעות לפחות\nלשלוח מיד למעבדה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C\n72 hours at 2-8 °C\nfluoride plasma:\n3 days at 15-25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "82947(50g": {
+    "patient_preparation_conditions": "אין צורך לצום או להימנע ממאכלים מסוימים לפני העמסת סוכר 50 גרם.\nהעמסת סוכר 100 גרם נעשית לאחר צום של לילה (14-8 שעות)",
+    "tubes": "2/4 מבחנות ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C\n72 hours at 2-8 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2948": {
+    "patient_preparation_conditions": "שתן ראשון של הבוקר",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה לשלוח מבחנה בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "שעתיים בטמפ' החדר",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2222": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nמחץ לאסותא להפריד מיד מתאים\n4 או 20°C-",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "ביצוע מיידי",
+    "results_time": "דחוף: 60 דקות"
+  },
+  "הבדיקה מבוצעת למאושפזים בלבד": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "כלי סטרילי מכסה אדום/\nמבחנה סטרילית- פקק שחור",
+    "sampling_conditions": "לשלוח מיד למעבדה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C\n72 hours at 2-8 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4520": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\n1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4540": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n7 days at 2‑8 °C\n1 month at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "45201": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות",
+    "tubes": "2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 days at 15‑25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2565": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\n3 months at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2567": {
+    "patient_preparation_conditions": "אין להוסיף חומר לשתן",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n6 days at 2‑8 °C\n6 months at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2576": {
+    "patient_preparation_conditions": "למטופל יש לקחת בדיקת Creatinine- blood\n  Creatinine-urine",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק\n+מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק צהוב/אדום)",
+    "sampling_conditions": "ראה הוראות\nCreatinine-blood\n& Creatinine- urine",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "ראה הוראות\nCreatinine-blood\n& Creatinine- urine",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4295": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4294": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה, יש להקפיד על מבחנה סגורה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4132": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "איסוף שתן-4133": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה, יש להקפיד על מבחנה סגורה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2435": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "82948": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להקפיד על מבחנה סגורה.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "82949": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה, יש להקפיד על מבחנה סגורה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה לשלוח מבחנה בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "14 days at 15‑25 °C\n14 days at 2‑8 °C\nstable at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3930": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "צום של 8 שעות לפחות\nלשלוח מיד למעבדה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 15-25 °C\n72 hours at 2-8 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4550": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 4‑8 °C\n3 days at 20‑25 °C\n6 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4560": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה, אין לקרר את הדגימה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 days at 20‑25 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "78220": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להגן על המבחנה מאור- עטיפה בנייר אלומיניום.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 15‑25 °C\n(במניעת חשיפה לאור)",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2250": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להגן על המבחנה מאור- עטיפה בנייר אלומיניום.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 15‑25 °C\n7 days at 2‑8 °C\n6 months at (-15)‑(-25) °C\n(במניעת חשיפה לאור)",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2251": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להגן על המבחנה מאור- עטיפה בנייר אלומיניום.\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n7 days at 2‑8 °C\n6 months at (-15)‑(-25) °C\n(במניעת חשיפה לאור)",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "לא מבוצע במעבדות": {
+    "patient_preparation_conditions": "",
+    "tubes": "",
+    "sampling_conditions": "",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "4075": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 20‑25 °C\n7 days at 4‑8 °C\n2 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4460": {
+    "patient_preparation_conditions": "יש להמנע מדיגום אחרי פעילות גופנית נמרצת",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 15‑25 °C\n7 days at 2‑8 °C\n> 7 days at (-60)‑(-80) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4450": {
+    "patient_preparation_conditions": "יש להמנע מדיגום אחרי פעילות גופנית נמרצת",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 days at 20‑25 °C\n7 days at 4‑8 °C\n3 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2977": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\n1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3615": {
+    "patient_preparation_conditions": "יש להמנע מדיגום אחרי פעילות גופנית נמרצת",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n4 days at 2‑8 °C\n6 weeks at -20 °C\n(עדיף להפריד את הפלזמה)",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2550": {
+    "patient_preparation_conditions": "אין לדגום לאחר פעילות גופנית מוגברת, או כל תהליך אחר הפוגע בתאי שריר.\nלא ניתן לבצע כבדיקה בדידה לנבדק אמבלטורי",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 20‑25 °C\n7 days at 4‑8 °C\n4 weeks at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2310": {
+    "patient_preparation_conditions": "צום 6-8 שעות\nבמצב מנוחה ללא Stasia, (מספר שעות לאחר פעילות גופנית נמרצת)",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n3 weeks at 2‑8 °C\n8 months at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2340": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "אסוף שתן של 24 שעות ללא תוסף או שתן אקראי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n4 days at 2‑8 °C\n3 weeks at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4100": {
+    "patient_preparation_conditions": "צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 15‑25 °C\n4 days at 2‑8 °C\n1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4105": {
+    "patient_preparation_conditions": "לאיסוף שתן יש לאחסן בקירור בזמן האיסוף",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "לשימור ניתן להוסיף חומצה,\nבזמן האיסוף יש לשמור בקירור.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "6 months at 2‑8 °C\nעם חומצה לשתן אקראי או לאיסוף שתן בקירור בזמן האיסוף",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4155": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "6 days at 20‑25 °C\n4 weeks at 4‑8 °C\n1 year at ‑20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4154": {
+    "patient_preparation_conditions": "שתן אמצעי טרי,\nבאיסוף שתן יש לאחסן בקירור בזמן האיסוף",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 15‑25 °C\n7 days at 2‑8 °C\n1 month at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "8244": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nמחץ לאסותא להפריד מיד מתאים\n4 או 20°C-",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 15‑25 °C\n6 days at 2‑8 °C\n> 1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2108": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2.5 months at 20‑25 °C\n5 months at 4‑8 °C\n4 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "חלק מפרופיל": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "6 days at 20‑25 °C\n4 weeks at 4‑8 °C\n1 year at ‑20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3540": {
+    "patient_preparation_conditions": "דגימת בוקר, נדרש צום של 8 שעות לפחות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש להפריד את הפלזמה/סרום מהתאים תוך שעה מזמן הלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n3 weeks at 2‑8 °C\nseveral years at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2156": {
+    "patient_preparation_conditions": "יש להימנע מאכילה או שתיה (פרט למים) לפחות שעתיים לפני נטילת דם, המנע משתיית אלכוהול 24 שעות לפני הבדיקה",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n1 month at 2‑8 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "21562": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "אין לבדוק שתן חומצי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה לשלוח מבחנה בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n10 days at 2‑8 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3690": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 20‑25 °C\n7 days at 4‑8 °C\n1 year at ‑20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3735": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\n1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3734": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)/\n2 מבחנות שתן פקק לבן+מיכל איסוף",
+    "sampling_conditions": "שתן טרי.\nלשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד במיכל.\nלמעבדה לשלוח מבחנה/ות בלבד.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 15‑25 °C\n3 days at 2‑8 °C\n1 year at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "51772": {
+    "patient_preparation_conditions": "לאחר צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 20‑25 °C\n10 days at 4 °C\n3 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "2465": {
+    "patient_preparation_conditions": "לאחר צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 15‑25 °C\n7 days at 2‑8 °C\n3 months at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4478": {
+    "patient_preparation_conditions": "לאחר צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 20‑25 °C\n10 days at 4 °C\n3 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3718": {
+    "patient_preparation_conditions": "לאחר צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "72 hours at 15‑25 °C\n7 days at 2‑8 °C\n3 months at (-15)‑(-25) °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "3719": {
+    "patient_preparation_conditions": "לאחר צום של 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 20‑25 °C\n10 days at 4 °C\n3 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6139": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 weeks at 15‑25 °C\n3 weeks at 2‑8 °C\n12 months at −20 ± 5 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4166": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 days at 20‑25 °C\n8 days at 4‑8 °C\n8 days at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "4168": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 20‑25 °C\n8 days at 4‑8 °C\n3 months at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6431": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 20‑25 °C\n8 days at 4‑8 °C\n3 months at -20 °C",
+    "results_time": "עד 4 ימים\nמבוצע בימים ב',ה'"
+  },
+  "6322": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 months at 20‑25 °C\n8 months at 4‑8 °C\n8 months at -20 °C",
+    "results_time": "עד יומיים"
+  },
+  "6321": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 months at 20‑25 °C\n8 months at 4‑8 °C\n8 months at -20 °C",
+    "results_time": "עד יומיים"
+  },
+  "6320": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 months at 20‑25 °C\n4 months at 4‑8 °C\n8 months at -20 °C",
+    "results_time": "עד יומיים"
+  },
+  "5232": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "3520": {
+    "patient_preparation_conditions": "למטופלי אסותא מאושפזים בלבד",
+    "tubes": "מבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמטופלים אמבולטוריים- בהפניית רופא של אסותא בלבד!",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 2-8 °C\n12 months at ‑20 °C(± 5 °C)",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'"
+  },
+  "8888": {
+    "patient_preparation_conditions": "בדיגום חוזר לאותו מטופל- נדרש לדגום מאותו סוג מבחנה",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "48 hours at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "60 דקות"
+  },
+  "83880": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה.\nמחוץ לאסותא להפריד את הנוזל למבחנת הפרדה ולשמור ב-20°C-",
+    "transport_instructions": "טמפ' החדר לשלוח מיד למעבדה,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 days at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "60 דקות"
+  },
+  "202": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "אין הוראות מיוחדות",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "48 hours capped at 15‑25 °C\n14 days capped at 2‑8 °C\n12 months capped at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "5731": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת",
+    "sampling_conditions": "מנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 4 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "5730": {
+    "patient_preparation_conditions": "בגלל השפעת הפרין על תפקודי קרישה מומלץ לדגום כשעתיים אחרי טיפול בהפרין",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת",
+    "sampling_conditions": "מנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 4 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "5371": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת",
+    "sampling_conditions": "מנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 4 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "5378": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות.\nחובה לסמן את המבחנה במדבקה עם הכיתוב D-Dimer",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת\nמסומנת במדבקה עם מלל לD-dimer",
+    "sampling_conditions": "טמפרטורת החדר\nחובה לסמן את המבחנה במדבקה עם הכיתוב D-Dimer",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "4 hours capped at 15‑25 °C\n14 days separated plasma at 2‑8 °C\n12 months separated plasma at -20 °C",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6392": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות.\nחובה לסמן את המבחנה במדבקה עם הכיתוב HIT",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת\nמסומנת במדבקה עם מלל HIT",
+    "sampling_conditions": "טמפרטורת החדר\nחובה לסמן את המבחנה במדבקה עם הכיתוב HIT",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "עד 4 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "6622": {
+    "patient_preparation_conditions": "מבוצע למטופלים מאושפזים בלבד!\nמבוצע בעונה בלבד. יש להתקשר למעבדה טרם דיגום.",
+    "tubes": "מבחנת UTM",
+    "sampling_conditions": "העברה מיידית ככל שניתן.\nבמידה ולא ניתן (מחוץ לשעות העבודה של המעבדה),  והבדיקה מבוצעת תוך 48 שעות מרגע הדיגום יש לשמור בטמפ' החדר 20-25°C.\nמעל 48 שעות מהדיגום יש לשמור בהקפאה- מינוס 70°C\nיש לציין תאריך ושעת דיגום.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "עד 48 שעות בטמפ' החדר 20-25°C.\nמעל 48 שעות בהקפאה- מינוס 70°C",
+    "results_time": "עד 24 שעות"
+  },
+  "7800": {
+    "patient_preparation_conditions": "מבוצע בעונה בלבד. יש להתקשר למעבדה טרם דיגום.",
+    "tubes": "מבחנת UTM",
+    "sampling_conditions": "העברה מיידית ככל שניתן.\nבמידה ולא ניתן (מחוץ לשעות העבודה של המעבדה),  והבדיקה מבוצעת תוך 48 שעות מרגע הדיגום יש לשמור בטמפ' החדר 20-25°C.\nמעל 48 שעות מהדיגום יש לשמור בהקפאה- מינוס 70°C\nיש לציין תאריך ושעת דיגום.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "עד 48 שעות בטמפ' החדר 20-25°C.\nמעל 48 שעות בהקפאה- מינוס 70°C",
+    "results_time": "עד 24 שעות"
+  },
+  "9205": {
+    "patient_preparation_conditions": "הבדיקה מתבצעת על דגימה יחידה.\nיש לשמור דיאטה 48 שעות לפני הבדיקה:\nאסור לאכול: בשר בקר, בשר כבש, כבד, פירות  הצובעים באדום את השתן והצואה כמו סלק.\nיש להימנע מצריכת כדורי ויטמין C  וכן אספרין ותרופות המכילות אספרין. תרופות נוגדות דלקת (כמו, ארטופן/ברופן, ולטרן, אינדומד) וכדורי ברזל. \nלפני הפסקת טיפול בתרופות יש להתייעץ עם הרופא המטפל!\nמותר לאכול: בשר עוף מבושל, דגים מבושלים,מזונות עתירי סיביבם,לחם מלא, דגנים, פופקורן וכו'. פירות וירקות מבושלים וכמויות מתונות מהפרות הבאים: תפוחים, אגסים,אפרסקים,משמשים, בננות, שזיפים, תות שדה, צימוקים, תפוזים, עגבניות, סלרי וחסה.",
+    "tubes": "כוס סטרילית עם מכסה אדום מתברג\nאו מבחנה מיועדת- שקופה עם כפית",
+    "sampling_conditions": "העברה מיידית ככל שניתן.\nבמידה ולא ניתן (מחוץ לשעות העבודה של המעבדה), לשמור בקירור 2-8°C עד 72 שעות.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 72 שעות בקירור 2-8°C",
+    "results_time": "עד 24 שעות"
+  },
+  "1000": {
+    "patient_preparation_conditions": "רחיצה יסודית של האזור ולקיחת שתן אמצעי (אמצע זרם) טרי, עדיפות לשתן ראשון של הבוקר.\nלמטופל עם קטטר יש לחטא את חלון הדקירה לפני הדקירה.\nיש לציין תאריך ושעת לקיחה.",
+    "tubes": "מבחנת שתן פקק צהוב+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "שתן אמצעי (אמצע זרם) טרי, עדיפות לשתן ראשון של הבוקר.\nיש לציין תאריך ושעת לקיחה.",
+    "transport_instructions": "מהר ככל האפשר\nטמפרטורת חדר",
+    "execution_time_info": "מוגן מאור\n1 day at 2-8°C \n 3 haur at 15-25°C.\nללא הגנה מאור\nעד 3 שעות",
+    "results_time": "דחוף: 60 דקות\nמחלקה: 4 ש'\nפרטיים: 24 ש'"
+  },
+  "7085": {
+    "patient_preparation_conditions": "רחיצה יסודית של האזור ולקיחת שתן אמצעי (אמצע זרם) טרי, עדיפות לשתן ראשון של הבוקר.\nלמטופל עם קטטר יש לחטא את חלון הדקירה לפני הדקירה.\nיש לציין תאריך ושעת לקיחה.",
+    "tubes": "מבחנת שתן פקק צהוב+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "שתן אמצעי (אמצע זרם) טרי, עדיפות לשתן ראשון של הבוקר.\nיש לציין תאריך ושעת לקיחה.\nבדיקת המשך לתוצאה חיובית מבוצעת באשדוד- יש לבחור Urine Culture בממשק אסותא אשדוד- מיקרוביולוגיה, לשלוח באותו היום לאשדוד.",
+    "transport_instructions": "מהר ככל האפשר\nטמפרטורת חדר,\nתרבית חיובית שינוע מחוץ לאסותא בקירור",
+    "execution_time_info": "מומלץ לבצע עד חצי שעה מהדיגום",
+    "results_time": "תשובה שלילית תסתיים תוך 24 שעות\nממצא ראשוני חיובי- בתוך 24-48 שעות\nעד 5 ימי עבודה"
+  },
+  "893301": {
+    "patient_preparation_conditions": "1.התנזרות בין 2-7 ימים\n2. לא לאסוף זרע בקונדום קוטל זרע.\n3.דגימה שהמטופל מביא מהבית, עד שעה מרגע הלקיחה.\n4.מטופל שלא מגיע למסור דגימת הזרע שלו חייב בהצגת ייפוי כוח ות\"ז ע\"י מיופה כוחו.",
+    "tubes": "בכוס סטרילית עם מכסה אדום מתברג",
+    "sampling_conditions": "לוודא התנזלות מלאה של הזרע לפני ביצוע הבדיקה. בין 15 עד 30 דקות.",
+    "transport_instructions": "טמפ' חדר, (אסור להקפיא או לקרר)",
+    "execution_time_info": "שעה אחת",
+    "results_time": "עד 24 שעות"
+  },
+  "893201": {
+    "patient_preparation_conditions": "1. דגימה שהמטופל מביא מהבית, עד שעה מרגע הלקיחה.       2.מטופל שלא מגיע למסור דגימת הזרע שלו חייב בהצגת ייפוי כוח ות\"ז ע\"י מיופה כוחו.",
+    "tubes": "בכוס סטרילית עם מכסה אדום מתברג",
+    "sampling_conditions": "לוודא התנזלות מלאה של הזרע לפני ביצוע הבדיקה",
+    "transport_instructions": "טמפ' חדר, (אסור להקפיא או לקרר)",
+    "execution_time_info": "אם הדיגום יבוצע במעבדה עד 90 דקות",
+    "results_time": "90 דקות"
+  },
+  "3036": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "מחוץ לאסותא לשלוח בקירור.\nאין להקפיא את הדגימה.",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 15‑25 °C\n7 days at 2‑8 °C\n6 months at (-15)‑(-25) °C",
+    "results_time": "עד 4 ימים\nמבוצע בימים א',ג',ה'"
+  },
+  "2670": {
+    "patient_preparation_conditions": "לברור פרופיל הורמונלי נשים \nבתקופת הפוריות: יום 3-5 למחזור.\nאין לבצע את הבדיקה במטופלות בתכשירים המכילים Fulvestrant",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 20‑25 °C\n2 days at 2‑8 °C\n6 months at-20 °C (± 5 °C)",
+    "results_time": "למחלקת IVF- 4 שעות\nפרטי- עד יומיים"
+  },
+  "4144": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 day at 20‑25 °C\n5 days at 2‑8 °C\n6 months at ‑20 °C (± 5 °C).",
+    "results_time": "למחלקת IVF- 4 שעות\nפרטי- עד יומיים"
+  },
+  "3002": {
+    "patient_preparation_conditions": "לברור פרופיל הורמונלי נשים בתקופת הפוריות: יום 3-5 למחזור",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20‑25 °C\n14 days at 2‑8 °C\n 6 months at‑20 °C (± 5 °C)",
+    "results_time": "למחלקת IVF- 4 שעות\nפרטי- עד יומיים"
+  },
+  "4702": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 2‑8 °C\n12 months at ‑20 °C (± 5 °C)",
+    "results_time": "למחלקת IVF- 4 שעות\nפרטי- עד יומיים"
+  },
+  "3001": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20-25 °C\n14 days at 2-8 °C\n 6 months at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "4146": {
+    "patient_preparation_conditions": "מומלץ לקחת דם לאחר 3 שעות אחרי קימה.לברור פרופיל הורמונלי נשים בתקופת הפוריות: יום 3-5 למחזור",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20‑25 °C\n14 days at 2‑8 °C\n6 months at ‑20 °C (± 5 °C)\n:במבחנת הפרדה\n24 hours at 2‑8 °C",
+    "results_time": "עד 4 ימים"
+  },
+  "4402": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "1 week at 2‑8 °C\n6 months at -20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "2048": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 20‑25 °C\n5 days at 2‑8 °C\n 6 months at ‑20 °C (± 5 °C).",
+    "results_time": "עד 4 ימים"
+  },
+  "3970": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "אין הוראות מיוחדות",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 15‑25 °C\n3 days at 2‑8 °C\n6 months at ‑20 °C(± 5 °C)",
+    "results_time": "דחוף: 30 דקות\nמחלקה: 4 ש'\nפרטיים: עד 4 ימים"
+  },
+  "2529": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 20‑25 °C\n4 days at 2‑8 °C\n12 months at ‑20 °C (± 5 °C)",
+    "results_time": "מחלקה: 4 ש'\nפרטיים: עד 4 ימים"
+  },
+  "2728": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hoursat 20‑25 °C\n 7 days at 2‑8 °C\n 12 months at ‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "4481": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20‑25 °C\n7 days at 2‑8 °C\n30 days at -20 °C",
+    "results_time": "עד 4 ימים"
+  },
+  "4439": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20‑25 °C\n7 days at 2‑8 °C\n30 days at -20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "4443": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 days at 20‑25 °C\n14 days at 2‑8 °C\n24 months at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "4466": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב\nמבחנת ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 days at 15‑25 °C\n8 days at 2‑8 °C\n6 months at (-15)‑(-25) °C",
+    "results_time": "עד יומיים"
+  },
+  "2605": {
+    "patient_preparation_conditions": "נדרש צום של 8 שעות לפחות",
+    "tubes": "מבחנת ג'ל- פקק צהוב מסומנת לVitamin B12",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה.\nמחוץ לאסותא להפריד את הסרום למבחנת הפרדה ולשמור ב-20°C-",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 hours at 15‑25 °C\n24 hours at 2‑8 °C\n56 days at ‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים\nמבוצע בימים א',ג',ה'"
+  },
+  "2746": {
+    "patient_preparation_conditions": "נדרש צום של 8 שעות לפחות",
+    "tubes": "מבחנת ג'ל- פקק צהוב מסומנת לfolic acid\nמוגן מאור",
+    "sampling_conditions": "מוגן מאור\nלשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה.\nמחוץ לאסותא להפריד את הסרום למבחנת הפרדה ולשמור ב-20°C-",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 hours at 15-25 °C\n48 hours at 2-8 °C\n28 days at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים\nמבוצע בימים א',ג',ה'"
+  },
+  "2378": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 20‑25 °C\n14 days at 2‑8 °C\n6 months at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6131": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 20‑25 °C\n5 days at 2‑8 °C\n24 weeks at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6135": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 2‑8 °C\n 3 months at ‑20 °C",
+    "results_time": "עד 4 ימים"
+  },
+  "6153": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 20‑25 °C\n14 days at 2-8 °C\n3 months at‑20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "7402": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 2‑8 °C\n 12 months at ‑20 °C (± 5 °C).",
+    "results_time": "עד 4 ימים"
+  },
+  "64153": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 2-8 °C\n2 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד יומיים"
+  },
+  "4153": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "24 hours at 2-8 °C\n2 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד יומיים"
+  },
+  "6287": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 20‑25 °C\n14 days at 2-8 °C\n6 months at -20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים\n(עד 24 שעות לאחר אירוע דקירה)"
+  },
+  "6291": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "3 days at 20-25 °C\n6 days at 2-8 °C\n3 months at -20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים\n(עד 24 שעות לאחר אירוע דקירה)"
+  },
+  "6302": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 20-25 °C\n14 days at 2-8 °C\n3 months at -20 °C (± 5 °C)",
+    "results_time": "עד 4 ימים\n(עד 24 שעות לאחר אירוע דקירה)"
+  },
+  "7180": {
+    "patient_preparation_conditions": "הבדיקה מבוצעת במקרים בהם  בדיקת HCV Ab חיובית",
+    "tubes": "2 מבחנות ג'ל- פקק ורוד",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": ":דם מלא לפני סרכוז\n24h at 15-30°C\n3 days at 2-8°C\n:סרום או פלזמה\n24h at 15-35°C\n3 days at 2-8°C\n6 weeks at -18-(-)70°C",
+    "results_time": "עד יומיים"
+  },
+  "6288": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 2-8 °C\n2 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6255": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 2-8 °C\n12 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6256": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 2-8 °C\n2 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6317": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "2 days at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6316": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "5 days at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "2224": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה.\nבשינוע הדגימה מחוץ לבי\"ח אסותא רמת החייל יש להגן מאור",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור מוגן מאור",
+    "execution_time_info": "8 hours at 20-25 °C\n5 days at 2-8 °C\n3 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6245": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "7 days at 2-8 °C\n2 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "6800": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 20-25 °C\n7 days at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "84063": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק חום",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "8 hours at 20-25 °C\n7 days at 2-8 °C\n6 months at ‑25 °C(± 6 °C)",
+    "results_time": "עד 4 ימים"
+  },
+  "סוג וסקר": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA- גדולה של בנק הדם-פקק סגול",
+    "sampling_conditions": "להעביר מיד למעבדה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "עד 24 שעות בקירור 4-8°C",
+    "results_time": "דחוף: 45 דקות\nפרטי: 4 שעות"
+  },
+  "2595": {
+    "patient_preparation_conditions": "",
+    "tubes": "מזרק מחומם או מבחנה ללא תוסף פקק אדום מחוממת (37°C)",
+    "sampling_conditions": "מבחנה חמה (משונעת בכף היד)",
+    "transport_instructions": "מבחנה חמה (משונעת בכף היד)",
+    "execution_time_info": "3 שעות",
+    "results_time": "שבוע"
+  },
+  "2803": {
+    "patient_preparation_conditions": "למטופלי אסותא מאושפזים בלבד",
+    "tubes": "מזרק שטוף בהפרין\nסגור היטב בסגר יעודי",
+    "sampling_conditions": "לקיחה ללא חשיפה לאויר,\nהקפד לרוקן שאריות הפרין, סגור מיד בסגר פלסטי,\nערבב בעדינות את המזרק 5 פעמים מעלה מטה ו-5 שניות בין כפות הידיים.\nשלח מיד לביצוע בטיפול נמרץ. \nלמטופלי אסותא מאושפזים בלבד!",
+    "transport_instructions": "לא מתאים לשינוע מחוץ לביה\"ח",
+    "execution_time_info": "30 min. at 15-25°C\n1.5 hour at 2-8°C\nראה פרוט לכל בדיקה בנפרד",
+    "results_time": "באותו היום"
+  },
+  "5032": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA\nפקק סגול",
+    "sampling_conditions": "לערבב היטב בהיפוך איטי, ללא הקצפה (5 פעמים) מיד לאחר לקיחה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "8 שעות",
+    "results_time": "עד יומיים"
+  },
+  "80206": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן+\nמבחנת שתן פקק צהוב+כוס שתן סטרילית (פקק צהוב/אדום)",
+    "sampling_conditions": "תנאי הלקיחה והשימור מפורטים בבדיקות הפרופיל",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "80203": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב+\n2 מבחנות ג'ל- פקק לבן+\nמבחנת שתן פקק צהוב+כוס שתן סטרילית (פקק צהוב/אדום)",
+    "sampling_conditions": "תנאי הלקיחה והשימור מפורטים בבדיקות הפרופיל",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "6290": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק ורוד",
+    "sampling_conditions": "תנאי הלקיחה והשימור מפורטים בבדיקות הפרופיל",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "710106": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק צהוב+\nמבחנת EDTA\nפקק סגול+\nמבחנת EDTA\nפקק כתום+ \nמבחנת ג'ל- פקק ורוד+\n2 מבחנות ג'ל- פקק לבן+\nמבחנת שתן פקק צהוב+כוס שתן סטרילית (פקק צהוב/אדום)",
+    "sampling_conditions": "תנאי הלקיחה והשימור מפורטים בבדיקות הפרופיל.\nיש להזין נתוני הנבדק במעמד הקליטה במערכת סופטוב.",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2022": {
+    "patient_preparation_conditions": "",
+    "tubes": "",
+    "sampling_conditions": "",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "83898": {
+    "patient_preparation_conditions": "",
+    "tubes": "",
+    "sampling_conditions": "",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2023": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA\nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2227": {
+    "patient_preparation_conditions": "ההורמון לא יציב בדם יש לטפל בדגימה על פי ההוראות. דגימה שלא טופלה כראוי תפסל.‏",
+    "tubes": "2 מבחנות EDTA- פקק כתום +מבחנת הפרדה.\nיש להכניס את המבחנה מיד למי קרח. יש להפריד את הפלסמה תוך 30 דקות ולהקפיא מיד‏",
+    "sampling_conditions": "ההורמון לא יציב בדם יש לטפל בדגימה על פי ההוראות. דגימה שלא טופלה כראוי תבוטל:\nמיד לאחר הלקיחה להעביר לקרח.\nהפרדת הפלסמה תוך חצי שעה מהלקיחה והקפאתה ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "מבוצע מדי יום א' פעם בשבועיים"
+  },
+  "2063": {
+    "patient_preparation_conditions": "אין לקחת ACE inhibitors ‏",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "6 חודשים בהקפאה",
+    "results_time": "14 יום"
+  },
+  "6393": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לחכות עד קרישה בטמפ' החדר, לסרכז ולשלוח את הסרום למעבדה. באם לא נשלח מיידית יש לשמור את הסרום בקירור עד 7 ימים",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "45 יום"
+  },
+  "2013": {
+    "patient_preparation_conditions": "יש להודיע למעבדה המבצעת טרם הלקיחה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "82017": {
+    "patient_preparation_conditions": "יש לקחת את הדגימה על נייר גטרי שמסופק בדרישה מראש ע\"י המעבדה‏",
+    "tubes": "נייר גטרי‏\n(מסופק ע\"י מוקד המעבדות באיכילוב)",
+    "sampling_conditions": "במידה והעיגולים על נייר גטרי לא מלאים או הדם חורג בצורה משמעותית מהסימון הבדיקה תיפסל.\nלצורך בדיקה יש לשלוח נייר גטרי – לטפטף דם על העיגולים שעל הנייר כך שהעיגולים יהיו מלאים אך הדם לא יחרוג מהגבולות, לייבש את הנייר ולשלוח בתוך שקית למוקד מעבדות. יש לייבש את הנייר הגטרי במשך ארבע שעות בטמפרטורת החדר ולשמור בקירור בשקית אטומה.",
+    "transport_instructions": "בקירור\n2-8°C \nשקית אטומה",
+    "execution_time_info": "7 ימים",
+    "results_time": "שבועיים"
+  },
+  "7207": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2088": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות.\nאם נלקחת דגימה בעמידה או בישיבה, הנבדק צריך להיות במצב זה לפחות שעתיים לפני דגימת הדם.",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "82103": {
+    "patient_preparation_conditions": "נדרש צום של 8 שעות לפחות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "יומיים"
+  },
+  "203": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "3181": {
+    "patient_preparation_conditions": "מתחת לגיל שנתיים יש לדגום לפני האכלה",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק+ מבחנת הפרדה/\nל-CSF מבחנה סטרילית פקק שחור",
+    "sampling_conditions": "פלסמה: להפריד ולהקפיא. CSF להקפיא",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "חודשיים",
+    "results_time": "18 ימי עבודה"
+  },
+  "2884": {
+    "patient_preparation_conditions": "יש לשלוח אנמנזה כולל רשימת תרופות ומצב המטופל בעת לקיחת הדגימה\nדיגום אחרי צום 12 שעות, מתחת לגיל שנתיים יש לדגום לפני האכלה",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה לשלוח מבחנה בלבד.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "חודשיים",
+    "results_time": "35 ימי עבודה"
+  },
+  "2140": {
+    "patient_preparation_conditions": "כאשר החולה מקבל אספריגינז  יש לדווח על כך למעבדה ולתאם את משלוח הדגימה, כך שהבדיקה תתבצע מידית. היות והאספריגינז פועל גם במבחנה, ערך האמוניה עולה לאחר לקיחת הדגימה.‏\nSulfasalazine ו – Sulfapyridine  מפריעים לריאקציה. Sulfasalazine גורם לתוצאה הגבוה בכ- 76% אילו Sulfapyridine גורם לתוצאה הנמוכה בכ- 18%.",
+    "tubes": "מבחנת EDTA \nפקק כתום-בקרח",
+    "sampling_conditions": "יש לשלוח מיידית למעבדה בקרח.\nלמעבדה המבצעת יש לשלוח פלסמה קפואה.\nהפרדת הפלסמה תעשה בצנטריפוגה מקוררת ℃4 בפרק זמן מינימלי ממועד הלקיחה.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "שעתיים בקירור 4-8°C \n7 ימים בהקפאה לאחר הפרדה‑(±6) ℃25-",
+    "results_time": "באותו היום"
+  },
+  "6171": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבועיים"
+  },
+  "3004": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "3005": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2157": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "6026": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 7 ימים בקירור",
+    "results_time": "14 יום"
+  },
+  "6225": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6296": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "2066": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "300": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "3 שבועות"
+  },
+  "86026": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6040": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6376": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "עד שבוע"
+  },
+  "86022": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6039": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "באותו היום בקירור 4-8°C\nעד חודש בהקפאה 20°C-.",
+    "results_time": "14 יום"
+  },
+  "6038": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6037": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6041": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6063": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבוע"
+  },
+  "82956": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "5 ימים"
+  },
+  "5300": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "results_time": "שבועיים"
+  },
+  "52710": {
+    "patient_preparation_conditions": "לקיחת הדם חייבת להתבצע בין 3-4 שעות לאחר ההזרקת LMWH (קלקסן) או שעתיים לאחר נטילת כדור (XARELTO) Rivaroxaban או נטילת כדור (ELIQUIS) Apixaban",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "results_time": "עד יומיים"
+  },
+  "A6318": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "results_time": "שבועיים"
+  },
+  "7640": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nלקיחה בין 2-3 שעות לאחר נטילת הכדור",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד (שעות הדיגום מפורטים בהמשך- ביצוע הבדיקה במעבדה).",
+    "results_time": "שבוע"
+  },
+  "2665": {
+    "patient_preparation_conditions": "נדרש צום 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "חודשיים בהקפאה 20°C-",
+    "results_time": "30 יום"
+  },
+  "82172": {
+    "patient_preparation_conditions": "נדרש צום 12 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "חודשיים בהקפאה 20°C-",
+    "results_time": "30 יום"
+  },
+  "3724": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "21 יום"
+  },
+  "83015": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "25 ימי עבודה"
+  },
+  "2614": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "2613": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "2827": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "21 יום"
+  },
+  "2028": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "7 ימים"
+  },
+  "2038": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "7 ימים"
+  },
+  "4185": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד שבועיים"
+  },
+  "6149": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "72 שעות"
+  },
+  "6534": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "72 שעות"
+  },
+  "6323": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nסרום ליפמי ו/או המוליטי מאד לא נמדדים במכשיר‏",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "עד שבוע (מבוצע בימי רביעי בלבד)"
+  },
+  "30240": {
+    "patient_preparation_conditions": "•יש  להפסיק תוספי מזון שלושה ימים טרם ביצוע הבדיקה (לדוגמה מולטיויטמינים. תרופות אין להפסיק, אלא אם הרופא דרש הפסקת תרופה מסויימת).\n•יש להגיע בצום של 12 שעות, אפשר לשתות מים.\n•רצוי לדגום בין השעות 08:00-10:00",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "3722": {
+    "patient_preparation_conditions": "נדרש צום של 10 שעות",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "יש לבצע צנטריפוגה תוך שעתיים מהלקיחה ולשמור בקירור 4-8°C",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "4403": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות\nהבדיקה כוללת\n Testosterone, total",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "2064": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "2065": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "2024": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "30 יום"
+  },
+  "6004": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "10 ימים"
+  },
+  "5335": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לקחת דם, להשהות שעה בטמפ' החדר ולסרכז בקור 4 מעלות. \nלאחר סרכוז יש להפריד ולהקפיא מיידית את הסרום למבחנת הפרדה ולשמור ב-20°C-\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "14 יום"
+  },
+  "2381": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "2060": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן בקרח+\nמבחנת הפרדה",
+    "sampling_conditions": "שמירה בקרח עד לסרכוז.\nיש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום בקור למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2355": {
+    "patient_preparation_conditions": "",
+    "tubes": "אבן  יבשה",
+    "sampling_conditions": "",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "",
+    "results_time": "22 ימי עבודה"
+  },
+  "100993": {
+    "patient_preparation_conditions": "צואה טרייה\nניתן לבצע בימים א'-ד' עד שעות הערב, ביום ה' עד שעה 11 בבוקר בלבד.",
+    "tubes": "כוס סטרילית עם מכסה אדום מתברג",
+    "sampling_conditions": "ניתן לבצע בימים א'-ד' עד שעה 19:00, ביום ה' עד שעה 11 בבוקר בלבד.\nעל הדגימה להגיע למעבדה המבצעת עד שעה 13‏ בימים א'-ה'.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "צואה טרייה, ניתן לשמור את הדגימה בקרור 2-8°c עד 72 שעות מהלקיחה.\nמעבר לזמן זה יש להקפיא את הדגימה 20°c-. \nעל הדגימה להגיע למעבדה המבצעת עד שעה 13‏ בימים א'-ה'.",
+    "results_time": "שבוע"
+  },
+  "2027": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "14 יום"
+  },
+  "6148": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "72 שעות"
+  },
+  "6147": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "72 שעות"
+  },
+  "79010": {
+    "patient_preparation_conditions": "",
+    "tubes": "נייר Guthrie",
+    "sampling_conditions": "יש לחכות ליבוש הדם \nלהעביר לשקית Bio Hazard",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "חודש",
+    "results_time": "25 ימי עבודה"
+  },
+  "2382": {
+    "patient_preparation_conditions": "צום של 14 שעות. אין לקחת תרופות ולהמנע מעישון:\nעל הנבדק להיות נקי מתרופות במדת האפשר במשך יומיים שלושה לפני לקיחת הדם. הדגש הוא במיוחד על תרופות מסוג חוסמי בטא.תרופות וזודילטוריות כמו תאופילין, פנטולאמין, קוקאין וכו' מגבירים הפרשת קטכולאמינים. קלונידין, רזרפין הלידול, תוראזין ואלפאמתיל דופא, מורידים את רמות הנוראפינפרין בפלסמה. על החולה להמנע מקבלת דופא, משתית קפה ומעשון לפחות מס' שעות לפני הבדיקה.\nעל החולה להשאר במנוחה, במצב שכיבה לפחות 30 דקות לפני לקיחת הדם. יש להכניס לוריד החולה פרפר, למנוע קרישה באמצעות הפרין ולאחר 15 דקות עם הפרפר לשאוב 3-2 מ\"ל דם, לשפכם ואז לשאוב עם מזרק חדש כ- 7 מ\"ל דם אותם יש להכניס למבחנה עם החומר המשמר המתאים ולהפוך את המבחנה הפקוקה מס' פעמים. חשוב לשמור על תנאי הסביבה, היות ועקה, חרדה, קור, כאב וכעס משפיעים מאד על הערכים.‏\nיש לצרף הפניה בתוספת אבחנה משוערת וחתימת רופא.",
+    "tubes": "מבחנה המכילה גרגירי חומר משמר- סודיום EDTA וסודיום מטהביסולפיט",
+    "sampling_conditions": "יש לקחת כ-5 מ\"ל דם למבחנה עם חומר משמר, להפוך מספר פעמים בעדינות לצורך המסת החומר.\nלשלוח דגימה למעבדה המבצעת לאחר הפרדה (מפורט בהערות בהמשך)\nקפואה עם קרח.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "דגימה לאחר הפרדה נשלחת מיידית למעבדה המבצעת בקרח.",
+    "results_time": "שבועיים"
+  },
+  "2383": {
+    "patient_preparation_conditions": "יש להתחיל את האיסוף מהשתן השני של יום תחילת הבדיקה למשך 24 שעות.\nיש להוסיף למיכל חומר משמר- 6NHCL- לפני מתן השתן השני,\n10 מ\"ל לכל -1000 מ\"ל שתן.\nבמידה ונלקח יותר ממיכל איסוף אחד יש להוסיף חומר משמר גם למיכל השני.\nביממה שלפני האיסוף יש להמנע משתיית קפה, תה, אכילת בננות,שוקולד, גלידה וכל מאכל אחר המכיל וניל. יש להמנע מאכילת קטניות ופול בפרט. \nביממה שלפני האיסוף יש להמנע מלקיחת התרופות הבאות (בתאום עם הרופא): קלונידין, חוסמי בטא, חוסמי אלפא,טיפות אף המכיולות קטאכולאמינים, רזפין, איסמלין, חוסמי MAO ותרופות טריציקליניות.",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "4 שבועות"
+  },
+  "2372": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "5044": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA\nפקק סגול",
+    "sampling_conditions": "לערבב היטב בהיפוך איטי, ללא הקצפה (5 פעמים) מיד לאחר לקיחה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "24 שעות",
+    "results_time": "באותו היום"
+  },
+  "6036": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז תוך שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "45 יום"
+  },
+  "2036": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "14 ימים"
+  },
+  "2015": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "על המבחנה להגיע עד שעתיים מהדיגום למעבדה המבצעת!!",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "שעתיים",
+    "results_time": ""
+  },
+  "89051": {
+    "patient_preparation_conditions": "יש לציין את מקור הדגימה:\nנוזל פלאוראלי\nפריטונאלי\nסינוביאלי\nנקז\nשטיפה ברונכיאלית",
+    "tubes": "מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "יש לשלוח מוקדם ככל האפשר למעבדה המבצעת (עד 24 שעות המתנה) בימים א'-ש' בשעות היום- 07:00-19:00.\n אין צורך להוציא משלוח בשעות הלילה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי (עד 24 שעות המתנה)-בימים א'-ש' בשעות היום- 07:00-19:00.\nאין צורך להוציא משלוח בשעות הלילה.",
+    "results_time": "עד 24 שעות"
+  },
+  "2390": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור 1 חודש בהקפאה",
+    "results_time": "שבוע"
+  },
+  "6299": {
+    "patient_preparation_conditions": "יש להתייעץ עם הרופא 3 שבועות לפני הבדיקה להפסקת תרופות של מערכת העיכול (אין לצרוך PPI).\nשלשה ימים לפני הבדיקה יש להפסיק תוספי מזון המכילים ביוטין(דוגמת מולטי ויטמין, תכשירי שיער וציפורניים)\nנדרש צום של 12 שעות, מותר לשתות מים",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 30 ימי עבודה"
+  },
+  "3945": {
+    "patient_preparation_conditions": "נדרש צום של לילה.\nשתן ראשון של בוקר יש להטיל לאסלה.\nבמשך השעתיים הבאות יש להישאר בצום ולשתות לפחות שתי כוסות מים.\nיש להמנע מלשתות משקאות קלים ותוססים המכילים חומצות לימון בערב שלפני הבדיקה ובבוקר הבדיקה.\nלאחר מתן השתן הראשון למיכל יש להוסיף חומר משמר- 6NHCL-\n10 מ\"ל לכל -1000 מ\"ל שתן.\nבמידה ונלקח יותר ממיכל איסוף אחד יש להוסיף חומר משמר גם למיכל השני.",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "חודש"
+  },
+  "2090": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "21 יום"
+  },
+  "2014": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "לשלוח מיד למעבדה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ24 שעות",
+    "results_time": "7 ימים"
+  },
+  "6258": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2525": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "28 ימים בקירור 28 חודשים בהקפאה",
+    "results_time": "שבוע"
+  },
+  "6138": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "2530": {
+    "patient_preparation_conditions": "ערכי הבדיקה מושפעים על ידי: מתח, דיכאון, אלכוהוליזם, מחלה כלייתית, הריון ואיסוף לא נכון.‏",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "יש לציין את נפח האיסוף.\nממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nמבחנה אחת נשלחת למעבדה המבצעת בציון נפח האיסוף, מבחנה שניה נשארת בהקפאה במעבדה הדוגמת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "6146": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "82955": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!\nנטילת ונקומיצין, פנוברביטל, לידוקאין, קנאמיצין יכולות להשפיע על התוצאה",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "30 דקות בטמפרטורת החדר, שעה על קרח",
+    "transport_instructions": "בקירור\n2-8°C (עם קרחום)",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "6015": {
+    "patient_preparation_conditions": "מומלץ לבצע בימי ראשון לזירוז התוצאה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "7205": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "72 שעות",
+    "results_time": "31 ימים"
+  },
+  "2626": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 7 ימי עבודה"
+  },
+  "3107": {
+    "patient_preparation_conditions": "שתן ראשון של הבוקר, אטום לאור\nיש לבצע גם בדיקת קריאטינין",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)\nאטום לאור",
+    "sampling_conditions": "שתן ראשון של בוקר בכלי אטום.\nלמעבדה המבצעת יש להעביר מבחנה שתן שנדגמה מהכוס, אטומה לאור.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2660": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "81001": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "למעבדה המבצעת יש להעביר מבחנה שתן שנדגמה מהכוס.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "יומיים בקירור 2-8°C\nשלושה חודשים בהקפאה -80°C-",
+    "results_time": "באותו היום"
+  },
+  "2553": {
+    "patient_preparation_conditions": "אין לבצע את הבדיקה ללא ביצוע בדיקות סרולוגיה: EBV- IgG+IgM. \nיש לעדכן את המעבדה המבצעת (אסותא אשדוד) טרם שליחת הבדיקה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד שבוע"
+  },
+  "87171": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ24 שעות",
+    "results_time": "24 ימים"
+  },
+  "82060": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "6506": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "12 יום"
+  },
+  "20501": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2050": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2668": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון 3 ימים לפני הביצוע",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "6235": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "FACS בדם 5443": {
+    "patient_preparation_conditions": "יש לצרף אבחנה או מעקב, ממצאים בבדיקות הקודמות אם לא בוצעו בשיבא.\nיש לצרף תוצאות של ספירת דם עדכניות.\nיש לציין אם המטופל קיבל דם.",
+    "tubes": "3 מבחנות ספירה-EDTA- פקק כתום,\nאו 2 מבחנות גדולות של בנק הדם- פקק סגול.\nלמח עצם- מבחנת ספירה-EDTA- פקק סגול.\nל-CSF מבחנה סטרילית פקק שחור",
+    "sampling_conditions": "את המבחנה יש לשלוח מיידית למעבדה המבצעת, בימים א' עד ד' עד השעה 12:00 בלבד!!\nיש לצרף אבחנה או מעקב, ממצאים בבדיקות הקודמות אם לא בוצעו בשיבא ותוצאות של ספירת דם עדכניות לדגימה.\nיש להודיע למעבדה המבצעת טרם שליחת הדגימה!\nניתן לשמר דם בחומר משמר במקרה הצורך.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בימים א' עד ד' עד השעה 12:00 בלבד!!",
+    "results_time": "עד שבועיים"
+  },
+  "5262": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנת EDTA\nפקק כתום",
+    "sampling_conditions": "לקיחה בטמפ' החדר. שינוע בקירור 4-8°C.\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לשמור 7 ימים בקירור.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד.",
+    "results_time": "3 שבועות"
+  },
+  "5220": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5261": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנת EDTA\nפקק כתום",
+    "sampling_conditions": "לקיחה בטמפ' החדר. שינוע בקירור 4-8°C.\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לשמור 7 ימים בקירור.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד.",
+    "results_time": "3 שבועות"
+  },
+  "5221": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5240": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5250": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5271": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5270": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5272": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5291": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "לקיחת דם בלבד- שינוע פרטי!": {
+    "patient_preparation_conditions": "לקיחת דם בלבד- שינוע פרטי!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "לקיחת דם בלבד- שינוע פרטי!\nיש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "12100": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "30 יום"
+  },
+  "12110": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "לשלוח למעבדה המבצעת עד לשעה 13:00 בימים א'-ה'.\nניתן לשמור ליום המחרת בקירור או בטמפ' החדר",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "30 יום"
+  },
+  "8222": {
+    "patient_preparation_conditions": "לחולים המטולוגים בלבד",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "לשלוח למעבדה המבצעת עד לשעה 13:00 בימים א'-ה'.\nניתן לשמור ליום המחרת בקירור או בטמפ' החדר",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "30 יום"
+  },
+  "8220": {
+    "patient_preparation_conditions": "לחולים המטולוגים בלבד",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "לשלוח למעבדה המבצעת עד לשעה 13:00 בימים א'-ה'.\nניתן לשמור ליום המחרת בקירור או בטמפ' החדר",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "30 יום"
+  },
+  "8219": {
+    "patient_preparation_conditions": "לחולים המטולוגים בלבד",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "לשלוח למעבדה המבצעת עד לשעה 13:00 בימים א'-ה'.\nניתן לשמור ליום המחרת בקירור או בטמפ' החדר",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "30 יום"
+  },
+  "2029": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "7 ימים"
+  },
+  "5460": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "2960": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור\n2-8°C (עם קרחום)",
+    "execution_time_info": "",
+    "results_time": "עד שבוע"
+  },
+  "7253": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן\nכיח- מבחנה סטרילית פקק שחור",
+    "sampling_conditions": "יש לסרכז את הסרום עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "12 יום"
+  },
+  "2046": {
+    "patient_preparation_conditions": "נדרש צום של 12 שעות לפחות\nרצוי להימנע מארוחה עשירה בחלבון יממה לפני דגימת הדם\nיש להפסיק נטילת תוספי מזון 3 ימים לפני הביצוע",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "170": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "86023": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6076": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "חודש"
+  },
+  "3003": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "3010": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "6297": {
+    "patient_preparation_conditions": "יש להמנע מתוספי מזון המכילים ביוטין 24 שעות לפני הבדיקה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "5 ימים"
+  },
+  "8629": {
+    "patient_preparation_conditions": "יש לקרוא את ההנחיות בדף המידע.\n1. נבדק שקיבל טיפול אנטיביוטי כנגד החיידק - יש להמתין לפחות 30 יום מגמר הטיפול טרם הגעה לבדיקת הכחדתו.\n2. אין לבצע את הבדיקה במידה והנבדק נוטל אנטיביוטיקה כלשהי אלא רק לאחר 14 יום מסיום נטילתה\n3. נבדקים המקבלים תרופות לדיכוי חומצת הקיבהZoton, Losec, Controloc, Omepradex, Gastro, Zantab וכו' צריכים להפסיק לקחת את התרופה 14 ימים לפני ביצוע הבדיקה.\n4. יש להיות בצום לפחות 4 שעות טרם הבדיקה. בבוקר מותר לשתות מעט מים וליטול את התרופות השגרתיות.\n5. אין לעשן בבוקר הבדיקה",
+    "tubes": "מבחנת Vacutainer מסומנת לזמן '0 וזמן '20, בדופליקט (4 מבחנות סה\"כ)",
+    "sampling_conditions": "הכנת החומרים: \n1. ממיסים טבליה ב-150-200 מ\"ל מי ברז ביחד עם חומצה ציטרית הנמצאת בשקית נפרדת.\n2. מערבבים היטב בעזרת קשית במשך 2-3 דקות עד להמסה מלאה. אולם חלקיקים קטנטנים עשויים להיראות לאחר הערבוב. יש להשאיר את הקשית לשתייה לאחר הערבוב ולאחר נשיפה למבחנות זמן 00. יש לשתות את המשקה לא יאוחר משעתיים ממועד הכנתו.\n4. לכל נבדק יש להשתמש ב-4 מבחנות Vacutainer ללא פקק המסומנות במספר דגימה. שתי מבחנות מסומנות במדבקה ירוקה לציון זמן 0, ושתי מבחנות מסומנות במדבקה אדומה לציון זמן 20 דקות.\nביצוע התבחין: \n1. הנבדק נושף נשיפה ארוכה בעזרת קש נוסף התחוב לתוך מבחנת Vacutainer המסומנת 00 עד 1 ס\"מ מהתחתית. בתום הנשיפה מושכים את המבחנה מן הקש ופוקקים אותה היטב. חוזרים על כך במבחנה נוספת (גיבוי) ושומרים את הקשית לשימוש נוסף.\n2. הנבדק שותה את כוס המיץ המכילה טבליה+חומצה ציטרית. אין לאכול, אין לשתות ואין לעשן.\n3. לאחר 20 דקות מנטילת החומר נושף הנבדק בפעם השלישית למבחנה 20 וחוזר על הנשיפה במבחנה נוספת (לגיבוי). בתום הנשיפה מושכים את המבחנה מן הקש ופוקקים אותה היטב.\nשמירת המבחנות:\nבטמפרטורת החדר: עד 5 לאחר ביצוע ההנשפה (יש לוודא כי המבחנות סגורות היטב)",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 5 ימים",
+    "results_time": "עד 7 ימי עבודה"
+  },
+  "8830": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "שבוע",
+    "results_time": "עד שבוע"
+  },
+  "3723": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "שעתיים",
+    "results_time": "3 ימים"
+  },
+  "6294": {
+    "patient_preparation_conditions": "יש להמנע מתוספי מזון המכילים ביוטין 24 שעות לפני הבדיקה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "7 ימים"
+  },
+  "6293": {
+    "patient_preparation_conditions": "יש להמנע מתוספי מזון המכילים ביוטין 24 שעות לפני הבדיקה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "7 ימים"
+  },
+  "7181": {
+    "patient_preparation_conditions": "הבדיקה מבוצעת במקרה של HBs Ag חיובי",
+    "tubes": "מבחנת ג'ל- פקק לבן מלאה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "תשובה ביום חול למחרת"
+  },
+  "6304": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד  את הסרום למבחנת הפרדה ולשמור בקירור 2-8°C אם המשלוח מגיע למעבדה המבצעת עד 48 שעות,\nאו לשמור בהקפאה ב-20°C- עד שבועיים.",
+    "transport_instructions": "בקירור 2-8°C או\nהקפאה, משלוח עם קרח",
+    "execution_time_info": "עד 48 שעות בקירור 2-8°C, מעל 48 שעות יש להקפיא את הדגימה",
+    "results_time": "חודש"
+  },
+  "6300": {
+    "patient_preparation_conditions": "במקרים דחופים נא להתקשר לתאום מוקדם.\nמבוצע בהפניית רופא ופירוט האבחנה בלבד.\nיש לבצע בדיקת נוגדנים טרם ההפניה לבדיקת PCR",
+    "tubes": "2 מבחנות EDTA \nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 30 ימי עבודה"
+  },
+  "86027": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6311": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "3 ימים"
+  },
+  "87536": {
+    "patient_preparation_conditions": "הבדיקה מבוצעת במקרה של HIV-1 and HIV-2, Ab (ELISA) חיובי",
+    "tubes": "מבחנת EDTA- גדולה של בנק הדם-פקק סגול",
+    "sampling_conditions": "יש להפריד את הדם 6 שעות מזמן הלקיחה ולשמור את הפלסמה בהקפאה ב -80.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "באותו היום בהקפאה 20°C-.",
+    "results_time": "10 ימים"
+  },
+  "2154": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנות EDTA \nפקק כתום",
+    "sampling_conditions": "אין צורך בקירור, יש לשלוח באותו היום עד שעה 14:00 (לא בימי ו'/ש'), לקיחה ברמת החייל עד שעה 12:00 בימים א'-ה'",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "",
+    "results_time": "7 ימי עבודה"
+  },
+  "86813": {
+    "patient_preparation_conditions": "בתיאום עם המעבדה המבצעת\nעד שעה 14:00",
+    "tubes": "מבחנת EDTA- גדולה של בנק הדם-פקק סגול",
+    "sampling_conditions": "משלוח בימי ראשון עד שעה 14:00",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "",
+    "results_time": "שבועיים"
+  },
+  "2615": {
+    "patient_preparation_conditions": "ללא צום הערכים גבוהים יותר, הערכים עולים עם הגיל, התוצאות מושפעות מדיאטה,עישון ומספר תרופות.‏",
+    "tubes": "מבחנת EDTA- פקק כתום בקרח+ מבחנת הפרדה",
+    "sampling_conditions": "מיד לאחר הלקיחה להעביר לקרח.\nהפרדת הפלסמה תוך חצי שעה מהלקיחה והקפאתה ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "7204": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "5 ימים"
+  },
+  "7203": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "5 ימים"
+  },
+  "299": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "4 ימים",
+    "results_time": "72 שעות"
+  },
+  "87252": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ24 שעות",
+    "results_time": "חודש"
+  },
+  "3498": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מיים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "3497": {
+    "patient_preparation_conditions": "הוראות לאיסוף:\nיש להתחיל את האיסוף מהשתן השני של יום תחילת הבדיקה. הוסף חומר משמר לכלי האיסוף (6NHCL-\n10 מ\"ל לכל -1000 מ\"ל שתן), השלך את השתן הראשון של הבוקר. אסוף שתן במשך 24 שעות לתוך הכלי עם החומר המשמר. \nבמידה ונלקח יותר ממיכל איסוף אחד יש להוסיף חומר משמר גם למיכל השני.\nתזונה ותרופות:\nביממה שלפני האיסוף יש להמנע מאכילת בננות, אבוקדו, אגוזים, אננס, חצילים, עגבניות כולל מוצרים מכילי עגבניות, שזיפים וקיוי וכל מאכל אחר המכיל וניל ביום לפני וביום האסוף. יש להמנע מאכילת קטניות ופול בפרט. \nביממה שלפני האיסוף יש להמנע מבליעת פנותיאזינים במידת האפשר ומלקיחת התרופות הבאות (בתאום עם הרופא): קלונידין, חוסמי בטא, חוסמי אלפא,טיפות אף המכיולות קטאכולאמינים, רזפין, איסמלין, חוסמי MAO ותרופות טריציקליניות.",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים",
+    "results_time": "7 ימים"
+  },
+  "2034+2035": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "7 ימים"
+  },
+  "6420": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים",
+    "results_time": "עד שבועיים"
+  },
+  "6810": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "דם ליפמי ו/או המוליטי מאד לא נמדד ע\"י המכשיר.‏\nיש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "4979": {
+    "patient_preparation_conditions": "דם מתקבל בימים א-ד בלבד עד \nשעה 12\nובלבד שיום קבלתו ויום המחרת הינם שניהם ימי עבודה רגילים",
+    "tubes": "2 מבחנות ליתיום הפרין מלאות- פקק ירוק",
+    "sampling_conditions": "שינוע באותו יום בטמפ' החדר 20-25°C\nלהעביר ישירות למעבדה המבצעת- קומה 1 אגף ד' חדר 20\nדם מתקבל בימים א-ד בלבד עד שעה 12\nובלבד שיום קבלתו ויום המחרת הינם שניהם ימי עבודה רגילים",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "10 שעות",
+    "results_time": "עד שבועיים"
+  },
+  "2018": {
+    "patient_preparation_conditions": "בתיאום מראש עם המעבדה",
+    "tubes": "2 מבחנות EDTA \nפקק כתום",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור\n2-8°C (עם קרחום)",
+    "execution_time_info": "24 שעות",
+    "results_time": "תוך 6 שבועות"
+  },
+  "3525": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מיים. יש להפסיק נטילת תוספי מזון ל 48 שעות\nלא ניתן למדידה באופן ישיר כאשר יש נוכחות של נוגדנים לאינסולין בסרום.",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "6337": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מיים. יש להפסיק נטילת תוספי מזון ל 48 שעות\nלפעמים הנוגדנים מופעים שנים אחרי האבחנה הקלינית . יש לבצע בדיקות לנוגדנים אחרים",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "84305": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מיים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "3526": {
+    "patient_preparation_conditions": "צום לילה (8-14 שעות) מותר לשתות מיים. יש להפסיק נטילת תוספי מזון ל 48 שעות",
+    "tubes": "4 מבחנות ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "3105": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "21 יום"
+  },
+  "838796": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "21 יום"
+  },
+  "2033": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "14 ימים"
+  },
+  "86024": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2021": {
+    "patient_preparation_conditions": "לחולים המטולוגים בלבד",
+    "tubes": "מבחנת ליתיום הפרין פקק ירוק",
+    "sampling_conditions": "לשלוח למעבדה המבצעת עד לשעה 13:00 בימים א'-ה'.\nחייב להגיע למעבדה ביום הלקיחה",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 24 שעות",
+    "results_time": "30 יום"
+  },
+  "9204": {
+    "patient_preparation_conditions": "על החולה להיות נקי מן התרופות הבאות: כלורפרופאמיד, פלקאיניד ומתהקוולון.‏",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "מבוצע בימי שני וחמישי.\nיש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור 1 חודש בהקפאה",
+    "results_time": "שבוע, מבוצע בימי שני וחמישי"
+  },
+  "80298": {
+    "patient_preparation_conditions": "השיטה אינה מתאימה למטופלים הנוטלים Brivaracetam",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nניתן לקחת דם בכל יום בשבוע ולשמור בקירור. הביצוע נעשה רק בימי חמישי בבוקר.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע, מבוצע בימי חמישי"
+  },
+  "6661": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "",
+    "results_time": "36 שעות"
+  },
+  "3725": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "לציין על הדגימה זמן מתן תרופה.\nיש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "8020": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\n(להפריד ממבחנות Apolipoprotein A1+B100 אם מבוצע באותה הזמנה)",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "8 ימים  בקירור 4-8°C\nחודשיים בהקפאה 20°C-",
+    "results_time": "שבוע"
+  },
+  "78221": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "30 יום"
+  },
+  "5230": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "86360": {
+    "patient_preparation_conditions": "יש לבצע ספירת דם ולצרף תוצאות להפניה",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "לא בקירור, לשלוח באותו היום, חובה לצרף תוצאות ספירת דם",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד 24 שעות בטמפ' החדר",
+    "results_time": "7 ימים.\nמבוצע בימים א',ב',ג'"
+  },
+  "7211": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "7213": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "2385": {
+    "patient_preparation_conditions": "צום לילה (10 שעות) מותר לשתות מים.  ב- 48 שעות לפני הבדיקה וביום הבדיקה יש להפסיק: נטילת תוספי מזון, פעילות ספורטיבית, שתיית משקאות אלכוהוליים ומשקאות המכילים חומרים מעוררים דוגמת קפאין (למשל קפה, קולה וכד')\nאכילה/נטילה של חומרים מעוררים על הרופא לשקול המלצה לגבי הפסקה של נטילת תרופות, 24 שעות לפני הבדיקה וביום הבדיקה עצמו, מסוג:\n Serotonin-noradrenaline reuptake inhibitors\nTricyclic anti-depressants\nMAO inhibitor anti-depressive drugs\nSympathomimetic agents",
+    "tubes": "2 מבחנות EDTA בקרח- פקק כתום+ מבחנת הפרדה",
+    "sampling_conditions": "יש להפריד ולהקפיא את הפלסמה למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "2451": {
+    "patient_preparation_conditions": "לפני תחילת האיסוף יש לשפוך את החומר המשמר-10 מ\"ל של 6NHCL, מבחנה ל1000 מ\"ל.\nמתחילים מהשתן השני של הבוקר עד לשתן הראשון של היום השני.\nבמידה ונלקח יותר ממיכל איסוף אחד יש להוסיף עוד מבחנה של חומר משמר גם למיכל השני.\n\nביממה שלפני האיסוף יש להמנע משתיית קפה, תה, אכילת בננות,שוקולד, גלידה וכל מאכל אחר המכיל וניל. יש להמנע מאכילת קטניות ופול בפרט. \nיש צורך להפסיק טפול תרופתי 48-72 שעות לפני המדידה",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "יש לציין את נפח האיסוף.\nממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nמבחנה אחת נשלחת למעבדה המבצעת בציון נפח האיסוף, מבחנה שניה נשארת בהקפאה במעבדה הדוגמת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2053": {
+    "patient_preparation_conditions": "",
+    "tubes": "מזרק גזים",
+    "sampling_conditions": "לשלוח בדחיפות למעבדה המבצעת, ללא קרח",
+    "transport_instructions": "",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "7201": {
+    "patient_preparation_conditions": "אין לקחת מחולה המטופל ב-Voraxaze (טיפול ברמות גבוהות של MTX) גם 4 ימים לאחר הפסקת הטיפות ב- Voraxaze.\nחובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "לציין על הדגימה זמן מתן תרופה.\nיש לסרכז עד שעתיים מהלקיחה.\nמוגן מאור",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "יומיים בקירור 2-8°C\nחודש בהקפאה -80°C-",
+    "results_time": "באותו היום"
+  },
+  "70457": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "70456": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים"
+  },
+  "2044": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנות שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "למעבדה באסותא יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו מכוס השתן.\nלמעבדה לשלוח מבחנה/ות בלבד.\n(מבחנת שתן אחת מבוצעת באסותא רמת החייל, מבחנה שניה מבוצעת בבי\"ח איכילוב.)",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "2045": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות\nללא חומר משמר\nאין לבצע בדיקה זו לחולים, אשר בדיקות הסטיק לחלבון בשתן, היו חיוביות חזקות‏‏",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "ממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nלמעבדה המבצעת יש לשלוח שתי מבחנות- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nיש לציין את נפח האיסוף",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור 7 ימים בהקפאה",
+    "results_time": "עד יומיים"
+  },
+  "2043": {
+    "patient_preparation_conditions": "אין לבצע בדיקה זו לחולים, אשר בדיקות הסטיק לחלבון בשתן, היו חיוביות חזקות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור 7 ימים בהקפאה",
+    "results_time": "עד יומיים"
+  },
+  "2037": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "30 יום"
+  },
+  "2026": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "10 ימים"
+  },
+  "2017": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנות EDTA \nפקק כתום",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 24 שעות בקירור 4-8°C",
+    "results_time": "תוצאה ראשונית חודש ובהתאם להתקדמות הבדיקה עד חודשיים"
+  },
+  "5260": {
+    "patient_preparation_conditions": "יש\nלציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.",
+    "tubes": "מבחנת סודיום ציטרט\nפקק תכלת\nדם מלא לא לסרכז!",
+    "sampling_conditions": "ניתן לבצע בימים א'-ה' עד שעה 12:00 בלבד!!\nמנע קונטמינציה על ידי נוגדי קרישה\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\nדם מלא לא לסרכז!",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים,\nניתן לבצע בימים א'-ה' עד שעה 12:00 בלבד!!",
+    "results_time": "שבועיים"
+  },
+  "7208": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": ""
+  },
+  "7210": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "12070": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "30 יום"
+  },
+  "86255": {
+    "patient_preparation_conditions": "ניקור מותני",
+    "tubes": "מבחנה סטרילית פקק שחור או מבחנה ללא תוסף - פקק אדום",
+    "sampling_conditions": "מייד אחרי הלקיחה- בטמפ' החדר.\nלשמור בקור ( 4-8°C), לשלוח באותו יום.",
+    "transport_instructions": "בקירור\n2-8°C (עם קרחום)",
+    "execution_time_info": "",
+    "results_time": "21 יום"
+  },
+  "6134": {
+    "patient_preparation_conditions": "יש להפסיק נטילת תוספי מזון 3 ימים לפני הביצוע",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "2031": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "7 ימים"
+  },
+  "2068": {
+    "patient_preparation_conditions": "יש להמנע מצריכה מוגברת של ויטמין C (מעל 2 גרם ב-24 שעות) בזמן האיסוף.\nלפני תחילת האיסוף יש לשפוך את החומר המשמר-10 מ\"ל של 6NHCL, מבחנה ל1000 מ\"ל.\nיש להתחיל את האיסוף מהשתן השני של יום תחילת הבדיקה למשך 24 שעות.\nבמידה ונלקח יותר ממיכל איסוף אחד יש להוסיף חומר משמר גם למיכל השני.\nיש לשים לב שכאשר עוברים 1000 מ\"ל איסוף יש להוסיף עוד מבחנה של חומר משמר.",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "מהלך האיסוף:\n1. יש לאסוף שתן במשך 24 שעות לכלי הקיבול המכיל חומר משמר ולאחסן בקירור.\n2. בסיום האיסוף יש לדגום מהאיסוף 9 מ\"ל שתן לשתי מבחנות (סה\"כ 18 מ\"ל). \n3. יש לציין על גבי הדגימות וטופס הזמנה את נפח האיסוף וזמן האיסוף",
+    "transport_instructions": "בקירור\n 2-8°C \nאו בהקפאה.",
+    "execution_time_info": "60 יום",
+    "results_time": "30 יום"
+  },
+  "8632": {
+    "patient_preparation_conditions": "ל-CSF חובה לצרף גם בדיקה בדם.\nדגימת הדם חייבת להיות בטווח של 48 שעות מנוזל השדרה",
+    "tubes": "מבחנת ג'ל- פקק לבן/ מבחנה סטרילית פקק שחור",
+    "sampling_conditions": "יש להעביר מיד למעבדה.\nמבחנת ג'ל יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "21 יום"
+  },
+  "3935": {
+    "patient_preparation_conditions": "שתן טרי",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "6257": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2054": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "21 יום"
+  },
+  "2052": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "21 יום"
+  },
+  "2210": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת Lithium Heparine- פקק ירוק",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "4045": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "4244": {
+    "patient_preparation_conditions": "לא ניתן למדוד במקרה והחולה מקבל  ספירונו לקטון או מעכבי ACE. יש להקפיד על תנאי הלקיחה וההכנה.‏\n'מצב זקוף/מאמץ: לפחות שעה של הסתובבות או הליכה. \nמצב שכיבה/מנוחה: לפחות 15 דקות  של שכיבה.\nלקחת בחשבון את שעת נטילת הדם במשך היום ותנוחת הגוף (יש לציין זאת בהזמנת הבדיקה).",
+    "tubes": "2 מבחנות EDTA- פקק כתום+ מבחנת הפרדה.\nהלקיחה לא בקרח!\nלסרכז, להפריד ולהקפיא 20°-",
+    "sampling_conditions": "חשוב יש לסרכז את הדגימה מיידית בטמפ' החדר 25°C  במהירות 3500rpm למשך 20 דקות.\nלהעביר למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.\nחשוב מאוד: אין לקרר את הדגימה בשום שלב מהלקיחה ועד הקפאת הפלזמה!!!",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "4117": {
+    "patient_preparation_conditions": "ניתן לדגום בימים א'-ה' עד שעה 12:00:\nהמשלוח יגיע למעבדה המבצעת עד שעה 13:00\nיש לצרף טופס פרטי חולה לבדיקה זו ולציין בהזמנת הבדיקות אם החשד הוא לפורפיריה עצבית או לפורפיריה עורית.\nחולה עם רקע משפחתי של פורפיריה, או חולה מאובחן עם פורפיריה או בכל מקרה שקיימת התלבטות לגבי ביצוע ו/או סוג הבדיקה –  יש להתייעץ עם המעבדה לאבחון  מחלות פורפיריה בבית חולים בילינסון לגבי סוג הבדיקות שיש לבצע.",
+    "tubes": "2 מבחנות ליתיום הפרין- פקק ירוק",
+    "sampling_conditions": "יש לסרכז ולהקפיא את הפלסמה.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "שבוע עד 10 ימים"
+  },
+  "4116": {
+    "patient_preparation_conditions": "ניתן לדגום בימים א'-ה' עד שעה 12:00:\nהמשלוח יגיע למעבדה המבצעת עד שעה 13:00\nיש לצרף טופס פרטי חולה לבדיקה זו ולציין בהזמנת הבדיקות אם החשד הוא לפורפיריה עצבית או לפורפיריה עורית.\nחולה עם רקע משפחתי של פורפיריה, או חולה מאובחן עם פורפיריה או בכל מקרה שקיימת התלבטות לגבי ביצוע ו/או סוג הבדיקה –  יש להתייעץ עם המעבדה לאבחון  מחלות פורפיריה בבית חולים בילינסון לגבי סוג הבדיקות שיש לבצע",
+    "tubes": "כוס סטרילית עם מכסה אדום מתברג",
+    "sampling_conditions": "הקפאה אחרי הלקיחה",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "עד חודש",
+    "results_time": "שבוע עד 10 ימים"
+  },
+  "4118": {
+    "patient_preparation_conditions": "ניתן לדגום בימים א'-ה' עד שעה 12:00:\nהמשלוח יגיע למעבדה המבצעת עד שעה 13:00\nיש לצרף טופס פרטי חולה לבדיקה זו ולציין בהזמנת הבדיקות אם החשד הוא לפורפיריה עצבית או לפורפיריה עורית.\n*חשוב- יש לשלוח דגימת שתן לרמת פורפירינים בשתן: ALA + PBG  בזמן התסמינים (דהיינו \"התקף\") או בסמוך אליהם בלבד. (ניתן להקפיא את הדגימה עד חודש ימים)\nחולה עם רקע משפחתי של פורפיריה, או חולה מאובחן עם פורפיריה או בכל מקרה שקיימת התלבטות לגבי ביצוע ו/או סוג הבדיקה –  יש להתייעץ עם המעבדה לאבחון  מחלות פורפיריה בבית חולים בילינסון לגבי סוג הבדיקות שיש לבצע",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "יש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.לשלוח מיד למעבדה באסותא ולהקפיא.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "עד חודש",
+    "results_time": "שבוע עד 10 ימים"
+  },
+  "4136": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות",
+    "tubes": "6 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "יש לציין את נפח האיסוף.\nממיכל האיסוף יש להפריש 6 מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום משניהם 6 מבחנות- כל אחת של 9 מ\"ל.\n5 מבחנות נשלחות למעבדה המבצעת בציון נפח האיסוף, מבחנה שישית נשארת בהקפאה במעבדה הדוגמת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "חודש וחצי"
+  },
+  "30220": {
+    "patient_preparation_conditions": "•יש  להפסיק תוספי מזון שלושה ימים טרם ביצוע הבדיקה (לדוגמה מולטיויטמינים. תרופות אין להפסיק, אלא אם הרופא דרש הפסקת תרופה מסויימת).\n•יש להגיע בצום של 12 שעות, אפשר לשתות מים.\n•רצוי לדגום בין השעות 08:00-10:00",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "5302": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "5306": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "4165": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד יומיים"
+  },
+  "4167": {
+    "patient_preparation_conditions": "איסוף שתן 24 שעות",
+    "tubes": "2 מבחנות שתן פקק לבן+\nמיכל איסוף",
+    "sampling_conditions": "יש לציין את נפח האיסוף.\nממיכל האיסוף יש להפריש שתי מבחנות לאחר ערבובו- כל אחת של 9 מ\"ל אשר נדגמו ממיכל האיסוף.\nבמידה ומתקבלים שני מיכלים יש לערבב את שניהם ולדגום מתוכם שתי מבחנות- כל אחת של 9 מ\"ל.\nמבחנה אחת נשלחת למעבדה המבצעת בציון נפח האיסוף, מבחנה שניה נשארת בהקפאה במעבדה הדוגמת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "7 ימים"
+  },
+  "6003": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "שבועיים, מבוצע בימי א'"
+  },
+  "3111": {
+    "patient_preparation_conditions": "מחיר הבדיקה הינו פר אלרגן! \nפירוט מימין בטבלה",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור",
+    "results_time": "14 ימי עבודה"
+  },
+  "6006": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "בהקדם האפשרי, לא יאוחר מ72 שעות",
+    "results_time": "עד חודש"
+  },
+  "2049": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "30 יום"
+  },
+  "3110": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור",
+    "results_time": "14 ימי עבודה"
+  },
+  "2032": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "14 ימים"
+  },
+  "6280": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבועיים"
+  },
+  "6281": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבועיים"
+  },
+  "3112": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "3103": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "3 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2562": {
+    "patient_preparation_conditions": "יש לבצע את הבדיקה בין השעות \n23:00-24:00\nפרט למקרים בהם הרופא הנחה אחרת\nיש לצחצח שיניים חצי שעה טרם ביצוע הבדיקה",
+    "tubes": "מבחנה מיוחדת המכילה צמר גפן המיועד ללעיסה.\n ניתן לקבל באיכילוב",
+    "sampling_conditions": "יש להוציא את גליל צמר הגפן מהמבחנה וללעוס 3-5 דקות.\nיש להחזיר את גליל צמר הגפן לתוך המבחנה הקטנה שנמצאת בתוך המבחנה הגדולה.\nיש לפקוק את המבחנה בסיום התהליך ולהעביר למעבדה למשלוח בקירור.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "4260": {
+    "patient_preparation_conditions": "צום של 14 שעות. אין לקחת תרופות ולהמנע מעישון.\nבמידת האפשר רצוי להכניס פרפר ולהשכיב את החולה חצי שעה לפני לקיחת הדם.\nיש לצרף הפניה בתוספת אבחנה משוערת וחתימת רופא.\nתרופות העלולות להשפיע על רמת הסרוטונין בפלסמה הן מסוג מעכבי MAO, ליתיום, מורפין, מתילדופה ורסרפין‏.",
+    "tubes": "מבחנה המכילה גרגירי חומר משמר- סודיום EDTA וסודיום מטהביסולפיט",
+    "sampling_conditions": "יש לקחת כ-5 מ\"ל דם (ניתן גם במזרק) ולהעביר באיטיות למבחנה עם חומר משמר, להפוך מספר פעמים בעדינות לצורך המסת החומר.\nלשלוח במהירות למעבדה בקרח לצורך הפרדה מיידית- יש למנוע מהדם להיקרש!\nלמעבדה המבצעת- לשלוח דגימה לאחר הפרדה מיידית (ללא טסיות- הפרדה מפורטת בהערות בהמשך)\nקפואה עם קרח.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "דגימה לאחר הפרדה נשלחת מיידית למעבדה המבצעת בקרח.",
+    "results_time": "שבועיים"
+  },
+  "1538": {
+    "patient_preparation_conditions": "על הדגימה להגיע לאסותא בימים א-ה (למעט ערבי חג) עד שעה 12\nנטילת דגימת הדם תעשה בשעות הבוקר לאחר צום של לפחות 10 שעות.\nלברור פרופיל הורמונלי של נשים בתקופת הפוריות: יש לדגום ביום 3-5 למחזור\nהבדיקה מבוצעת בד\"כ במקביל לבדיקת טסטוסטרון בפרופיל 4406",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "הבדיקה מבוצעת בד\"כ במקביל לבדיקת טסטוסטרון בפרופיל 4406\nיש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "3 ימי עבודה"
+  },
+  "86021": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "2039": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "ערבב היטב מיד לאחר הלקיחה למניעת קרישים. דם קרוש יגרום לביטול הביצוע.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים בקירור 14 ימים בהקפאה",
+    "results_time": "עד יומיים"
+  },
+  "87172": {
+    "patient_preparation_conditions": "",
+    "tubes": "2-3 מבחנות ספירה מלאות (EDTA)- פקק כתום\nאו דגימת מח עצם אחת מלאה במבחנת ספירה (EDTA)- פקק סגול",
+    "sampling_conditions": "לשמור בקור ( 4-8°C), לשלוח באותו יום",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "48 שעות",
+    "results_time": "14 ימים"
+  },
+  "4406": {
+    "patient_preparation_conditions": "על הדגימה להגיע לאסותא בימים א-ה (למעט ערבי חג) עד שעה 12\nנטילת דגימת הדם תעשה בשעות הבוקר לאחר צום של לפחות 10 שעות.\nלברור פרופיל הורמונלי של נשים בתקופת הפוריות: יש לדגום ביום 3-5 למחזור",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "3 ימי עבודה"
+  },
+  "2051": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nבמידה והמשלוח לא יוצא באותו יום יש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "בקירור\n2-8°C \nיום למחרת -הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 10 ימי עבודה"
+  },
+  "2055": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 2 חודשי עבודה.\nקדימות לנשים בהריון."
+  },
+  "86025": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "82239": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "3 ימי עבודה"
+  },
+  "6601": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד שבוע"
+  },
+  "6600": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד שבוע"
+  },
+  "4301": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "7 ימים  בקירור 4-8°C",
+    "results_time": "14 יום"
+  },
+  "6592": {
+    "patient_preparation_conditions": "אין הוראות מיוחדות",
+    "tubes": "מבחנת ג'ל- פקק צהוב",
+    "sampling_conditions": "לשלוח מיד למעבדה-\nיש לסרכז עד שעתיים מהלקיחה",
+    "transport_instructions": "טמפ' החדר,\nמחוץ לאסותא בקירור",
+    "execution_time_info": "",
+    "results_time": "עד 4 ימים"
+  },
+  "8347": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנות ליתיום הפרין פקק ירוק+ מבחנת הפרדה",
+    "sampling_conditions": "יש להפריד את הפלסמה לשתי דגימות, לשמור ולשנע קפוא 25°C-",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "30 יום"
+  },
+  "6315": {
+    "patient_preparation_conditions": "חובה לציין בהערה לדגימה את זמן מתן התרופה!",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "באותו היום"
+  },
+  "7214": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "7215": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "9000": {
+    "patient_preparation_conditions": "במקרה של בדיקת VDRL,qualitative חיובית.\nיש למלא \"טופס בקשה לביצוע תבחינים סרולוגיים לאבחון עגבת בנסיוב\".",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.\nאין לשלוח נסיוב המוליטי.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "3 שבועות"
+  },
+  "82725": {
+    "patient_preparation_conditions": "צום לילה של 12-14 שעות",
+    "tubes": "מבחנת ג'ל- פקק לבן+ מבחנת הפרדה",
+    "sampling_conditions": "יש לסרכז מיד לאחר הלקיחה.\nיש להפריד ולהקפיא את הסרום למבחנת הפרדה ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "90 ימים",
+    "results_time": "חודש"
+  },
+  "4590": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן אטומה לאור+ מבחנת הפרדה",
+    "sampling_conditions": "יש להפריד ולהקפיא את הסרום למבחנת הפרדה אטומה לאור ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2061": {
+    "patient_preparation_conditions": "יש להימנע מלצרוך ויטמין C (למשל, שתיה מרובה של מיצי הדרים) או ליטול תוספי מזון המכילים ויטמין C \n48 שעות לפני לקיחת דם",
+    "tubes": "2 מבחנות ספירה- פקק כתום- אטומה לאור בקרח",
+    "sampling_conditions": "הקפאה של דם מלא מיד אחרי הלקיחה,\nאטום לאור\nשליחת מבחנה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח, אטום לאור",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2062": {
+    "patient_preparation_conditions": "",
+    "tubes": "2 מבחנות ספירה- פקק כתום- אטומה לאור בקרח",
+    "sampling_conditions": "הקפאה של דם מלא מיד אחרי הלקיחה,\nאטום לאור\nשליחת מבחנה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח, אטום לאור",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "2180": {
+    "patient_preparation_conditions": "אחרי צום של לילה",
+    "tubes": "מבחנת Lithium Heparine- פקק ירוק אטומה לאור+ מבחנת הפרדה",
+    "sampling_conditions": "לסרכז מייד  להקפיא ולשמור מוגן מאור",
+    "transport_instructions": "הקפאה, משלוח עם קרח, אטום לאור",
+    "execution_time_info": "חודש בהקפאה",
+    "results_time": "עד 26 ימי עבודה"
+  },
+  "2226": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן אטומה לאור+ מבחנת הפרדה",
+    "sampling_conditions": "יש להפריד ולהקפיא את הסרום למבחנת הפרדה אטומה לאור ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "עד 48 שעות בקירור, מעל 48 שעות יש להקפיא את הדגימה",
+    "results_time": "עד 21 ימי עבודה"
+  },
+  "4591": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן אטומה לאור+ מבחנת הפרדה",
+    "sampling_conditions": "יש להפריד ולהקפיא את הסרום למבחנת הפרדה אטומה לאור ולשמור ב-20°C-.\nשליחת מבחנת הפרדה קפואה בקרח למעבדה המבצעת.",
+    "transport_instructions": "הקפאה, משלוח עם קרח",
+    "execution_time_info": "",
+    "results_time": "עד 14 ימי עבודה"
+  },
+  "6324": {
+    "patient_preparation_conditions": "יש לציין בטופס האם המטופל נוטל תרופות נוגדות קרישה ואת שמותיהן.\nאין אפשרות לבצע את הבדיקה במידה והמטופל נוטל את אחת\nהתרופות החדשות נוגדות הקרישה (DOAC):\n Rivaroxaban (Xarelto), Apixaban (Eliquis), Dabigatran .(Pradaxa)",
+    "tubes": "2-5 מבחנות סודיום ציטרט\nפקק תכלת\n(תלוי בכמות הבדיקות הנוספות)",
+    "sampling_conditions": "להעביר את הדגימה למעבדה עד שעתיים מהלקיחה!\nמנע קונטמינציה על ידי נוגדי קרישה-\nלהקפיד על יחס אנטיקואגולנט-דם (לפי הקו המסומן).\nלערבב היטב בהיפוך איטי (5 פעמים), ללא הקצפה, מיד לאחר לקיחה למניעת היווצרות קרישי דם.\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום ולשמור בהקפאה בשעות הקבלה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "עד שעתיים!\nמעל שעתיים יש לבצע הפרדה מלאה של הפלסמה ולהקפיא (ראה הערות לבדיקה בעמודה אחרונה בשורה זו).\n\nהמשלוח למעבדה המבצעת יצא עד שעה 10:00 בימים א-ה בלבד, ניתן לדגום בשעות הקבלה ולשמור בהקפאה.",
+    "results_time": "שבועיים"
+  },
+  "4630": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבוע"
+  },
+  "6624": {
+    "patient_preparation_conditions": "מבוצע למטופלים מאושפזים בלבד!\nיש לשלוח למעבדה בקשה להכנת ערכה בציון שם המטופל, מספר זיהוי ומחלקה.",
+    "tubes": "מבחנת UTM",
+    "sampling_conditions": "העברה מיידית למעבדה",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "24 שעות"
+  },
+  "6360": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "10 ימים"
+  },
+  "7116": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנה סטרילית פקק שחור\nאו כוס סטרילית עם מכסה אדום מתברג, או כוס שתן סטרילית, או מטוש כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nבמידה ולא ניתן- לשמור במקרר עד למחרת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "תשובה ראשונה של הסתכלות מיקרוסקופית תוך 24 שעות.\nתשובה שלילית סופית תוך שש שבועות. \nתוצאות רגישות ל-Nocardia עד שבועיים."
+  },
+  "7321": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנה סטרילית פקק שחור\nאו כוס סטרילית עם מכסה אדום מתברג או מטוש כחול",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nבמידה ולא ניתן- לשמור במקרר עד למחרת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "תשובה ראשונה של הסתכלות מיקרוסקופית תוך 24 שעות.\nתשובה שלילית סופית תוך שש שבועות."
+  },
+  "6259": {
+    "patient_preparation_conditions": "לצורך הפענוח יש לפנות למומחה למחלות זיהומיות",
+    "tubes": "מבחנת EDTA \nפקק כתום",
+    "sampling_conditions": "הבדיקה לא מבוצעת בסופ\"ש- אין לשלוח בימי חמישי עד שבת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "עד 48 שעות",
+    "results_time": "עד 4 ימים"
+  },
+  "2289": {
+    "patient_preparation_conditions": "",
+    "tubes": "מבחנת ג'ל- פקק לבן",
+    "sampling_conditions": "יש לסרכז עד שעתיים מהלקיחה.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "שבועיים"
+  },
+  "2070": {
+    "patient_preparation_conditions": "עדיפות לשתן ראשון של בוקר, אם לא אז לפחות 3 שעות",
+    "tubes": "מבחנת שתן פקק לבן+כוס שתן סטרילית (פקק כחול/אדום)",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nיש להכניס את המבחנה למקום המיועד בכוס.\nלמעבדה המבצעת לשלוח מבחנה בלבד.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "שבוע",
+    "results_time": "עד 4 ימים"
+  },
+  "7045": {
+    "patient_preparation_conditions": "במקרה ויש לבצע גם צואה לקלוסטרידיום (clostridium) יש לתת דגימות נפרדות.",
+    "tubes": "כוס סטרילית עם מכסה אדום מתברג\nאו מבחנה מיועדת- שקופה עם כפית",
+    "sampling_conditions": "לשלוח מיד למעבדה.\nבמידה ולא ניתן- לשמור במקרר עד למחרת.",
+    "transport_instructions": "בקירור 2-8°C",
+    "execution_time_info": "",
+    "results_time": "עד 4 ימים\nבמידת הצורך ניתן לקבל ע\"פ דרישה תוצאת רגישות לבדיקה. יש צורך ליצור קשר עם המעבדה המבצעת."
+  },
+  "2511": {
+    "patient_preparation_conditions": "במקרה ויש לבצע גם צואה לקלוסטרידיום (clostridium) יש לתת דגימות נפרדות.",
+    "tubes": "כוס סטרילית עם מכסה אדום מתברג\nאו מבחנה מיועדת- שקופה עם כפית",
+    "sampling_conditions": "העברה מיידית למעבדה.\nאין לשמור בקירור- קירור פוגע ברגישות הבדיקה.",
+    "transport_instructions": "טמפרטורת החדר,\nלא מעל 25 מעלות",
+    "execution_time_info": "",
+    "results_time": "עד 72 שעות"
+  }
+}

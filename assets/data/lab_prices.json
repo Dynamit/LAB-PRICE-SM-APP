@@ -1,0 +1,4010 @@
+[
+  {
+    "test_code": "100",
+    "test_name": "HERPES Ab TYPING",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "1000",
+    "test_name": "URINE COMPLETE",
+    "prices": {
+      "private": 95,
+      "tourist": 105
+    }
+  },
+  {
+    "test_code": "10007085",
+    "test_name": "שתן לכללית ותרבית",
+    "prices": {
+      "private": 440,
+      "tourist": 490
+    }
+  },
+  {
+    "test_code": "100993",
+    "test_name": "בצואה CALPROTECTIN",
+    "prices": {
+      "private": 560,
+      "tourist": 624
+    }
+  },
+  {
+    "test_code": "12070",
+    "test_name": "פאנל מיאלואידי-NGS",
+    "prices": {
+      "private": 8280,
+      "tourist": 10348
+    }
+  },
+  {
+    "test_code": "12100",
+    "test_name": "PDGFR-A",
+    "prices": {
+      "private": 2380,
+      "tourist": 2969
+    }
+  },
+  {
+    "test_code": "12110",
+    "test_name": "PDGFR-B",
+    "prices": {
+      "private": 2350,
+      "tourist": 2934
+    }
+  },
+  {
+    "test_code": "1466",
+    "test_name": "Rectal culture ESBL",
+    "prices": {
+      "private": 75,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "1538",
+    "test_name": "SHBG (Sex Hormone  Binding Globulin )",
+    "prices": {
+      "private": 360,
+      "tourist": 406
+    }
+  },
+  {
+    "test_code": "170",
+    "test_name": "GENTAMYCIN",
+    "prices": {
+      "private": 270,
+      "tourist": 301
+    }
+  },
+  {
+    "test_code": "1810",
+    "test_name": "ENDOMYSIAL Ab ( IgA+IgG)",
+    "prices": {
+      "private": 160,
+      "tourist": 181
+    }
+  },
+  {
+    "test_code": "2003",
+    "test_name": "ACETAMINOPHEN ( paracetamol)",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "2010",
+    "test_name": "PCR-RT  P53",
+    "prices": {
+      "private": 8070,
+      "tourist": 9605
+    }
+  },
+  {
+    "test_code": "2011",
+    "test_name": "PCR דם/מח עצם - P53",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2012",
+    "test_name": "ציטולוגיה CSF",
+    "prices": {
+      "private": 530,
+      "tourist": 593
+    }
+  },
+  {
+    "test_code": "2013",
+    "test_name": "ACETYL CHOLINE ESTERASE",
+    "prices": {
+      "private": 1070,
+      "tourist": 1205
+    }
+  },
+  {
+    "test_code": "2014",
+    "test_name": "CMV, PCR- CSF",
+    "prices": {
+      "private": 1220,
+      "tourist": 1378
+    }
+  },
+  {
+    "test_code": "2015",
+    "test_name": "Cell Count - CSF (CSF ספירת תאים בנוזל)",
+    "prices": {
+      "private": 190,
+      "tourist": 207
+    }
+  },
+  {
+    "test_code": "2016",
+    "test_name": "LYMPHOCYTE subclasses quantitative  FACS-CSF",
+    "prices": {
+      "private": 3730,
+      "tourist": 3985
+    }
+  },
+  {
+    "test_code": "2017",
+    "test_name": "PCR-RT MRD",
+    "prices": {
+      "private": 8070,
+      "tourist": 9605
+    }
+  },
+  {
+    "test_code": "2018",
+    "test_name": "PCR-RT IgVH - mutational status",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "202",
+    "test_name": "VANCOMYCINE",
+    "prices": {
+      "private": 280,
+      "tourist": 315
+    }
+  },
+  {
+    "test_code": "2020",
+    "test_name": "לקיחת דמים",
+    "prices": {
+      "private": 140,
+      "tourist": 146
+    }
+  },
+  {
+    "test_code": "2021",
+    "test_name": "בדיקת קריוטיפ ממאירות",
+    "prices": {
+      "private": 5100,
+      "tourist": 5454
+    }
+  },
+  {
+    "test_code": "2022",
+    "test_name": "PCR איכותי למח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2023",
+    "test_name": "צביעת ברזל במח עצם",
+    "prices": {
+      "private": 590,
+      "tourist": 631
+    }
+  },
+  {
+    "test_code": "2024",
+    "test_name": "PCR BRAF V600E  דם/מח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2025",
+    "test_name": "בדיקת קריוטיפ-מעבדה",
+    "prices": {
+      "private": 1540,
+      "tourist": 1607
+    }
+  },
+  {
+    "test_code": "2026",
+    "test_name": "PCR דם/מח עצם -MPL",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2027",
+    "test_name": "PCR דם/מח עצם-CALR",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2028",
+    "test_name": "(9:22)BCR-ABL t -דם/מח עצם PCR",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2029",
+    "test_name": "FLT3 ITD-דם/מח עצם PCR",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "203",
+    "test_name": "AMIKACIN",
+    "prices": {
+      "private": 280,
+      "tourist": 315
+    }
+  },
+  {
+    "test_code": "2031",
+    "test_name": "PCR NPM1-דם/מח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2032",
+    "test_name": "PCR (15:17)PML-RARA t -דם/מח עצם",
+    "prices": {
+      "private": 1840,
+      "tourist": 1968
+    }
+  },
+  {
+    "test_code": "2033",
+    "test_name": "PCR JAK2 mutation דם/מח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2034",
+    "test_name": "PCR IDH1 mutation דם/מח עצם",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "2035",
+    "test_name": "PCR mutation IDH2-דם/מח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2036",
+    "test_name": "PCR דם/מח עצם-CEBPa",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2037",
+    "test_name": "(4:11) MLL-AF4 t-כמותי דם/מח עצם PCR-RT",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "2038",
+    "test_name": "(9:22)BRC-ABL t-כמותי דם/מח עצםPCR-RT",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "2039",
+    "test_name": "FK  (TACROLIMUS -506)",
+    "prices": {
+      "private": 760,
+      "tourist": 856
+    }
+  },
+  {
+    "test_code": "2041",
+    "test_name": "METANEPHRINE (URINE)",
+    "prices": {
+      "private": 1040,
+      "tourist": 1170
+    }
+  },
+  {
+    "test_code": "2043",
+    "test_name": "MICROALBUMIN (URINE)",
+    "prices": {
+      "private": 200,
+      "tourist": 226
+    }
+  },
+  {
+    "test_code": "2044",
+    "test_name": "MICROALBUMIN/CREATININE",
+    "prices": {
+      "private": 200,
+      "tourist": 226
+    }
+  },
+  {
+    "test_code": "2045",
+    "test_name": "MICROALBUMIN-U24h",
+    "prices": {
+      "private": 160,
+      "tourist": 164
+    }
+  },
+  {
+    "test_code": "2046",
+    "test_name": "GASTRIN",
+    "prices": {
+      "private": 420,
+      "tourist": 447
+    }
+  },
+  {
+    "test_code": "2047",
+    "test_name": "ALDOSTERONE-U24h",
+    "prices": {
+      "private": 650,
+      "tourist": 732
+    }
+  },
+  {
+    "test_code": "2048",
+    "test_name": "AMH (ANTI MULERIAN HORMONE)",
+    "prices": {
+      "private": 340,
+      "tourist": 478
+    }
+  },
+  {
+    "test_code": "2050",
+    "test_name": "ENDOMYSIAL IgA",
+    "prices": {
+      "private": 160,
+      "tourist": 181
+    }
+  },
+  {
+    "test_code": "20501",
+    "test_name": "ENDOMYSIAL IgG",
+    "prices": {
+      "private": 160,
+      "tourist": 181
+    }
+  },
+  {
+    "test_code": "2051",
+    "test_name": "THYROGLOBULIN",
+    "prices": {
+      "private": 600,
+      "tourist": 637
+    }
+  },
+  {
+    "test_code": "2052",
+    "test_name": "PARVOVIRUSE Ab",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "2054",
+    "test_name": "PARVOVIRUS B19 Ab IgG",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "2055",
+    "test_name": "TSI (Thyroid Stimulating Immunoglobulin)",
+    "prices": {
+      "private": 690,
+      "tourist": 813
+    }
+  },
+  {
+    "test_code": "2060",
+    "test_name": "CALCITONIN",
+    "prices": {
+      "private": 420,
+      "tourist": 447
+    }
+  },
+  {
+    "test_code": "2061",
+    "test_name": "VITAMIN B1",
+    "prices": {
+      "private": 340,
+      "tourist": 376
+    }
+  },
+  {
+    "test_code": "2062",
+    "test_name": "VITAMIN B6",
+    "prices": {
+      "private": 490,
+      "tourist": 524
+    }
+  },
+  {
+    "test_code": "2063",
+    "test_name": "ACE - angiotensin converting enzyme",
+    "prices": {
+      "private": 700,
+      "tourist": 786
+    }
+  },
+  {
+    "test_code": "2064",
+    "test_name": "BORRELIA IgG-Lyme Diseas",
+    "prices": {
+      "private": 410,
+      "tourist": 459
+    }
+  },
+  {
+    "test_code": "2065",
+    "test_name": "BORRELIA IgM - Lyme Diseas",
+    "prices": {
+      "private": 640,
+      "tourist": 680
+    }
+  },
+  {
+    "test_code": "2066",
+    "test_name": "HTLV-1 Ab",
+    "prices": {
+      "private": 6590,
+      "tourist": 7469
+    }
+  },
+  {
+    "test_code": "2067",
+    "test_name": "UREAPLASMA UREALITIC / Chlamydia",
+    "prices": {
+      "private": 1020,
+      "tourist": 1151
+    }
+  },
+  {
+    "test_code": "2068",
+    "test_name": "OXALATE- U24h",
+    "prices": {
+      "private": 580,
+      "tourist": 619
+    }
+  },
+  {
+    "test_code": "2070",
+    "test_name": "STD (Sexually Transmitted Diseases)",
+    "prices": {
+      "private": 560,
+      "tourist": 798
+    }
+  },
+  {
+    "test_code": "2085",
+    "test_name": "ALDOLASE",
+    "prices": {
+      "private": 320,
+      "tourist": 342
+    }
+  },
+  {
+    "test_code": "2088",
+    "test_name": "ALDOSTERONE",
+    "prices": {
+      "private": 420,
+      "tourist": 447
+    }
+  },
+  {
+    "test_code": "2089",
+    "test_name": "PCR-RT PML -RARA t :15:17",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "2090",
+    "test_name": "PCR C-KIT mutation  דם/מח עצם",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2108",
+    "test_name": "ALBUMIN",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "2140",
+    "test_name": "AMMONIA",
+    "prices": {
+      "private": 320,
+      "tourist": 334
+    }
+  },
+  {
+    "test_code": "2151",
+    "test_name": "HLA TYPING",
+    "prices": {
+      "private": 2030,
+      "tourist": 2294
+    }
+  },
+  {
+    "test_code": "2154",
+    "test_name": "HLA B27",
+    "prices": {
+      "private": 850,
+      "tourist": 902
+    }
+  },
+  {
+    "test_code": "2156",
+    "test_name": "AMYLASE",
+    "prices": {
+      "private": 45,
+      "tourist": 64
+    }
+  },
+  {
+    "test_code": "21561",
+    "test_name": "AMYLASE (body fluids)",
+    "prices": {
+      "private": 75,
+      "tourist": 76
+    }
+  },
+  {
+    "test_code": "2157",
+    "test_name": "ANDROSTENDIONE",
+    "prices": {
+      "private": 350,
+      "tourist": 369
+    }
+  },
+  {
+    "test_code": "2180",
+    "test_name": "VITAMIN C",
+    "prices": {
+      "private": 230,
+      "tourist": 240
+    }
+  },
+  {
+    "test_code": "2210",
+    "test_name": "LUMINAL (PHENOBARBITAL)",
+    "prices": {
+      "private": 470,
+      "tourist": 529
+    }
+  },
+  {
+    "test_code": "2211",
+    "test_name": "PRIMIDONE(MYSOLINE)",
+    "prices": {
+      "private": 470,
+      "tourist": 529
+    }
+  },
+  {
+    "test_code": "2222",
+    "test_name": "GLUCOSE (CSF)",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2224",
+    "test_name": "VITAMIN 25 (OH) D3",
+    "prices": {
+      "private": 120,
+      "tourist": 159
+    }
+  },
+  {
+    "test_code": "2225",
+    "test_name": "VITAMIN 24,25 (OH) D",
+    "prices": {
+      "private": 210,
+      "tourist": 217
+    }
+  },
+  {
+    "test_code": "2226",
+    "test_name": "VITAMIN 1,25 (OH) D",
+    "prices": {
+      "private": 820,
+      "tourist": 872
+    }
+  },
+  {
+    "test_code": "2227",
+    "test_name": "ACTH STIMULATION",
+    "prices": {
+      "private": 820,
+      "tourist": 872
+    }
+  },
+  {
+    "test_code": "2250",
+    "test_name": "BILIRUBIN TOTAL",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "2251",
+    "test_name": "BILIRUBIN DIRECT",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "2252",
+    "test_name": "BILIRUBIN INDIRECT",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2280",
+    "test_name": "ADENOVIRUS PCR feces",
+    "prices": {
+      "private": 760,
+      "tourist": 853
+    }
+  },
+  {
+    "test_code": "2281",
+    "test_name": "PARVOVIRUSE B19 PCR",
+    "prices": {
+      "private": 750,
+      "tourist": 847
+    }
+  },
+  {
+    "test_code": "2289",
+    "test_name": "PERTUSIS AB",
+    "prices": {
+      "private": 490,
+      "tourist": 549
+    }
+  },
+  {
+    "test_code": "2310",
+    "test_name": "CALCIUM",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "2311",
+    "test_name": "CALCIUM-U24h",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2340",
+    "test_name": "CALCIUM (URINE)",
+    "prices": {
+      "private": 55,
+      "tourist": 58
+    }
+  },
+  {
+    "test_code": "2355",
+    "test_name": "CALCULUS",
+    "prices": {
+      "private": 1700,
+      "tourist": 1816
+    }
+  },
+  {
+    "test_code": "2372",
+    "test_name": "TEGRATOL (CARBAMAZEPINE)",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "2378",
+    "test_name": "CEA (Carcinoembryonic Ag) - blood",
+    "prices": {
+      "private": 60,
+      "tourist": 61
+    }
+  },
+  {
+    "test_code": "2381",
+    "test_name": "CA 72.4",
+    "prices": {
+      "private": 220,
+      "tourist": 235
+    }
+  },
+  {
+    "test_code": "2382",
+    "test_name": "CATECHOLAMINES BLOOD",
+    "prices": {
+      "private": 1040,
+      "tourist": 1170
+    }
+  },
+  {
+    "test_code": "2383",
+    "test_name": "CATECHOLAMINES (URINE) collection",
+    "prices": {
+      "private": 1040,
+      "tourist": 1170
+    }
+  },
+  {
+    "test_code": "2385",
+    "test_name": "METANEPHRINE and NORMETNEPHRINE (BLOOD)",
+    "prices": {
+      "private": 1830,
+      "tourist": 1964
+    }
+  },
+  {
+    "test_code": "2390",
+    "test_name": "CERULOPASMIN",
+    "prices": {
+      "private": 320,
+      "tourist": 342
+    }
+  },
+  {
+    "test_code": "2435",
+    "test_name": "CHLORIDES",
+    "prices": {
+      "private": 55,
+      "tourist": 58
+    }
+  },
+  {
+    "test_code": "2451",
+    "test_name": "METANEPHRINE-U24h",
+    "prices": {
+      "private": 760,
+      "tourist": 855
+    }
+  },
+  {
+    "test_code": "2465",
+    "test_name": "CHOLESTEROL",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "2510",
+    "test_name": "Rivaroxaban (Xarelto)",
+    "prices": {
+      "private": 320,
+      "tourist": 392
+    }
+  },
+  {
+    "test_code": "2525",
+    "test_name": "COPPER",
+    "prices": {
+      "private": 130,
+      "tourist": 134
+    }
+  },
+  {
+    "test_code": "2529",
+    "test_name": "CORTISOL",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "2530",
+    "test_name": "CORTISOL FREE",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "2550",
+    "test_name": "CPK (Creatine Kinase)",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "2552",
+    "test_name": "CPK-MB",
+    "prices": {
+      "private": 460,
+      "tourist": 490
+    }
+  },
+  {
+    "test_code": "2553",
+    "test_name": "EBNA nuclear Ag",
+    "prices": {
+      "private": 280,
+      "tourist": 276
+    }
+  },
+  {
+    "test_code": "2562",
+    "test_name": "CORTISOL ברוק (SALIVARY FREE CORTISOL)",
+    "prices": {
+      "private": 340,
+      "tourist": 338
+    }
+  },
+  {
+    "test_code": "2565",
+    "test_name": "CREATININE",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "2566",
+    "test_name": "CREATININE-U24h",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2567",
+    "test_name": "CREATININE (URINE)",
+    "prices": {
+      "private": 75,
+      "tourist": 76
+    }
+  },
+  {
+    "test_code": "2571",
+    "test_name": "CLAMYDIA /GONUREA",
+    "prices": {
+      "private": 370,
+      "tourist": 394
+    }
+  },
+  {
+    "test_code": "2575",
+    "test_name": "CCT (CREATININE CLEARANCE TEST)",
+    "prices": {
+      "private": 100,
+      "tourist": 102
+    }
+  },
+  {
+    "test_code": "2576",
+    "test_name": "CCT (CREATININE CLEARANCE)",
+    "prices": {
+      "private": 200,
+      "tourist": 214
+    }
+  },
+  {
+    "test_code": "2595",
+    "test_name": "CRYOGLOBUILIN",
+    "prices": {
+      "private": 240,
+      "tourist": 249
+    }
+  },
+  {
+    "test_code": "2605",
+    "test_name": "VITAMIN B12",
+    "prices": {
+      "private": 260,
+      "tourist": 275
+    }
+  },
+  {
+    "test_code": "2613",
+    "test_name": "BARTONELLA IgM Ab",
+    "prices": {
+      "private": 420,
+      "tourist": 450
+    }
+  },
+  {
+    "test_code": "2614",
+    "test_name": "BARTONELLA IgG Ab",
+    "prices": {
+      "private": 420,
+      "tourist": 450
+    }
+  },
+  {
+    "test_code": "2615",
+    "test_name": "HOMOCYSTEINE",
+    "prices": {
+      "private": 430,
+      "tourist": 460
+    }
+  },
+  {
+    "test_code": "2626",
+    "test_name": "DHEA-S",
+    "prices": {
+      "private": 140,
+      "tourist": 192
+    }
+  },
+  {
+    "test_code": "2627",
+    "test_name": "DHEA (URINE)",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "2660",
+    "test_name": "DIGOXIN",
+    "prices": {
+      "private": 160,
+      "tourist": 164
+    }
+  },
+  {
+    "test_code": "2665",
+    "test_name": "APOLIPOPROTEIN A",
+    "prices": {
+      "private": 210,
+      "tourist": 231
+    }
+  },
+  {
+    "test_code": "2668",
+    "test_name": "ERYTHROPOIETIN (EPO)",
+    "prices": {
+      "private": 720,
+      "tourist": 811
+    }
+  },
+  {
+    "test_code": "2670",
+    "test_name": "ESTRADIOL ( E2 )",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "2728",
+    "test_name": "FERRITIN",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "2740",
+    "test_name": "TOXOCARA  Ab",
+    "prices": {
+      "private": 270,
+      "tourist": 293
+    }
+  },
+  {
+    "test_code": "2746",
+    "test_name": "FOLIC ACID",
+    "prices": {
+      "private": 230,
+      "tourist": 246
+    }
+  },
+  {
+    "test_code": "2747",
+    "test_name": "METANEPHRINE (BLOOD)",
+    "prices": {
+      "private": 1040,
+      "tourist": 1170
+    }
+  },
+  {
+    "test_code": "2757",
+    "test_name": "FRUCTOSAMINE",
+    "prices": {
+      "private": 690,
+      "tourist": 736
+    }
+  },
+  {
+    "test_code": "2784",
+    "test_name": "GAMMA GLOBULIN",
+    "prices": {
+      "private": 970,
+      "tourist": 1095
+    }
+  },
+  {
+    "test_code": "2803",
+    "test_name": "BLOOD GAGGES",
+    "prices": {
+      "private": 300,
+      "tourist": 312
+    }
+  },
+  {
+    "test_code": "2804",
+    "test_name": "RENIN-BLOOD",
+    "prices": {
+      "private": 330,
+      "tourist": 412
+    }
+  },
+  {
+    "test_code": "2827",
+    "test_name": "BCL2-t  (14:18)  PCR",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "2947",
+    "test_name": "GLUCOSE",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "2948",
+    "test_name": "GLUCOSE (URINE)",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2949",
+    "test_name": "GLUCOSE-U24h",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "2951",
+    "test_name": "GLUCOSE TOLERANCE TEST",
+    "prices": {
+      "private": 320,
+      "tourist": 342
+    }
+  },
+  {
+    "test_code": "2960",
+    "test_name": "G6PG (quantitative)",
+    "prices": {
+      "private": 690,
+      "tourist": 736
+    }
+  },
+  {
+    "test_code": "2977",
+    "test_name": "GGT (Gamma glutamyltransferase) - blood",
+    "prices": {
+      "private": 55,
+      "tourist": 57
+    }
+  },
+  {
+    "test_code": "299",
+    "test_name": "HUMIRA (Adalimumab level)",
+    "prices": {
+      "private": 330,
+      "tourist": 371
+    }
+  },
+  {
+    "test_code": "2998",
+    "test_name": "ANCA -X",
+    "prices": {
+      "private": 340,
+      "tourist": 378
+    }
+  },
+  {
+    "test_code": "300",
+    "test_name": "(נוגדנים Anti Adalimumab Ab) HUMIRA Ab",
+    "prices": {
+      "private": 330,
+      "tourist": 371
+    }
+  },
+  {
+    "test_code": "3001",
+    "test_name": "FSH (Follicle stimulating hormone)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "3002",
+    "test_name": "LH  (Gonadotropin Luteinizing hormone)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "3003",
+    "test_name": "GH (GROWTH HORMONE)",
+    "prices": {
+      "private": 120,
+      "tourist": 119
+    }
+  },
+  {
+    "test_code": "3004",
+    "test_name": "MPO (MYELOPEROXIDASE  Ab)",
+    "prices": {
+      "private": 330,
+      "tourist": 372
+    }
+  },
+  {
+    "test_code": "3005",
+    "test_name": "PR3 (NEUROPHILS CYTOPLAMAIC  Ab)",
+    "prices": {
+      "private": 330,
+      "tourist": 372
+    }
+  },
+  {
+    "test_code": "3010",
+    "test_name": "HAPTOGLOBIN",
+    "prices": {
+      "private": 530,
+      "tourist": 566
+    }
+  },
+  {
+    "test_code": "30220",
+    "test_name": "P1NP (Procollagen 1 aminoterminal peptide), total",
+    "prices": {
+      "private": 200,
+      "tourist": 233
+    }
+  },
+  {
+    "test_code": "30240",
+    "test_name": "CTX (C telopeptide cross linked), collagen 1",
+    "prices": {
+      "private": 230,
+      "tourist": 273
+    }
+  },
+  {
+    "test_code": "3036",
+    "test_name": "HbA1C",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "3101",
+    "test_name": "TTG ( transglutaminase) IgA",
+    "prices": {
+      "private": 340,
+      "tourist": 478
+    }
+  },
+  {
+    "test_code": "3103",
+    "test_name": "ASCA  IgA (Saccharomyces cerevisiae)",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "3105",
+    "test_name": "ISLET CELL",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "3110",
+    "test_name": "RAST מזון",
+    "prices": {
+      "private": 350,
+      "tourist": 510
+    }
+  },
+  {
+    "test_code": "3111",
+    "test_name": "RAST נשאפים",
+    "prices": {
+      "private": 350,
+      "tourist": 510
+    }
+  },
+  {
+    "test_code": "3112",
+    "test_name": "ASCA IgG  (Saccharomyces cerevisiae)",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "3280",
+    "test_name": "ENTAMEBA HISTOLYTICA",
+    "prices": {
+      "private": 580,
+      "tourist": 659
+    }
+  },
+  {
+    "test_code": "3497",
+    "test_name": "HIAA-5",
+    "prices": {
+      "private": 260,
+      "tourist": 269
+    }
+  },
+  {
+    "test_code": "3498",
+    "test_name": "HYDROXYPROGESTERON  17-d (17OH)",
+    "prices": {
+      "private": 310,
+      "tourist": 347
+    }
+  },
+  {
+    "test_code": "3520",
+    "test_name": "TROPONINE T",
+    "prices": {
+      "private": 270,
+      "tourist": 283
+    }
+  },
+  {
+    "test_code": "3525",
+    "test_name": "INSULIN",
+    "prices": {
+      "private": 210,
+      "tourist": 290
+    }
+  },
+  {
+    "test_code": "3526",
+    "test_name": "INSULIN 4",
+    "prices": {
+      "private": 840,
+      "tourist": 1162
+    }
+  },
+  {
+    "test_code": "3540",
+    "test_name": "IRON",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "3615",
+    "test_name": "LDH (Lactate dehydrogenase)",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "36431",
+    "test_name": "BLOOD UNIT,price per one unit",
+    "prices": {
+      "private": 570,
+      "tourist": 604
+    }
+  },
+  {
+    "test_code": "36432",
+    "test_name": "טיפול במנת דם טרומבוציטי",
+    "prices": {
+      "private": 370,
+      "tourist": 440
+    }
+  },
+  {
+    "test_code": "36433",
+    "test_name": "טיפול במנת דם קריו",
+    "prices": {
+      "private": 370,
+      "tourist": 440
+    }
+  },
+  {
+    "test_code": "36434",
+    "test_name": "טיפול במנת דם פלסמה",
+    "prices": {
+      "private": 370,
+      "tourist": 440
+    }
+  },
+  {
+    "test_code": "36435",
+    "test_name": "מנת דם מוקרנת",
+    "prices": {
+      "private": 400,
+      "tourist": 470
+    }
+  },
+  {
+    "test_code": "36436",
+    "test_name": "מנת דם מסוננת",
+    "prices": {
+      "private": 490,
+      "tourist": 580
+    }
+  },
+  {
+    "test_code": "36437",
+    "test_name": "מנת דם שטופה",
+    "prices": {
+      "private": 1430,
+      "tourist": 1699
+    }
+  },
+  {
+    "test_code": "36438",
+    "test_name": "מנת דם מוקרנת מסוננת",
+    "prices": {
+      "private": 590,
+      "tourist": 699
+    }
+  },
+  {
+    "test_code": "36439",
+    "test_name": "מנת  טרומבוציטים מוקרנים",
+    "prices": {
+      "private": 430,
+      "tourist": 504
+    }
+  },
+  {
+    "test_code": "3690",
+    "test_name": "LIPASE",
+    "prices": {
+      "private": 55,
+      "tourist": 73
+    }
+  },
+  {
+    "test_code": "3718",
+    "test_name": "HDL",
+    "prices": {
+      "private": 100,
+      "tourist": 120
+    }
+  },
+  {
+    "test_code": "3719",
+    "test_name": "LIPOPROTEIN, LDL cholesterol",
+    "prices": {
+      "private": 55,
+      "tourist": 58
+    }
+  },
+  {
+    "test_code": "3720",
+    "test_name": "RNA 165",
+    "prices": {
+      "private": 680,
+      "tourist": 728
+    }
+  },
+  {
+    "test_code": "3722",
+    "test_name": "בדיקת מלחי מרה",
+    "prices": {
+      "private": 500,
+      "tourist": 529
+    }
+  },
+  {
+    "test_code": "3723",
+    "test_name": "HEMOSIDERIN-URIN",
+    "prices": {
+      "private": 370,
+      "tourist": 397
+    }
+  },
+  {
+    "test_code": "3724",
+    "test_name": "AQUAPORIN",
+    "prices": {
+      "private": 680,
+      "tourist": 728
+    }
+  },
+  {
+    "test_code": "3725",
+    "test_name": "LITHIUM",
+    "prices": {
+      "private": 180,
+      "tourist": 255
+    }
+  },
+  {
+    "test_code": "3734",
+    "test_name": "MAGNESIUM (URINE)",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "3735",
+    "test_name": "MAGNESIUM",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "3912",
+    "test_name": "PNEUMOCYSTIS CARINII  Ag",
+    "prices": {
+      "private": 340,
+      "tourist": 378
+    }
+  },
+  {
+    "test_code": "3930",
+    "test_name": "OSMOLALITY (BLOOD)",
+    "prices": {
+      "private": 150,
+      "tourist": 154
+    }
+  },
+  {
+    "test_code": "3935",
+    "test_name": "OSMOLALITY (URINE)",
+    "prices": {
+      "private": 150,
+      "tourist": 154
+    }
+  },
+  {
+    "test_code": "3945",
+    "test_name": "CITRATE-U24h",
+    "prices": {
+      "private": 180,
+      "tourist": 202
+    }
+  },
+  {
+    "test_code": "3970",
+    "test_name": "PTH",
+    "prices": {
+      "private": 400,
+      "tourist": 423
+    }
+  },
+  {
+    "test_code": "4045",
+    "test_name": "HYDANTOIN FENITUIN",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "4075",
+    "test_name": "ALKALINE PHOSPHATASE",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "4080",
+    "test_name": "ISOENZYMES ALK.PHO.",
+    "prices": {
+      "private": 690,
+      "tourist": 736
+    }
+  },
+  {
+    "test_code": "4100",
+    "test_name": "PHOSPHOR",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4101",
+    "test_name": "PHOSPHOR-U24h",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4105",
+    "test_name": "PHOSPHOR (URINE)",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4116",
+    "test_name": "PORPHYRINS qualitative - feces",
+    "prices": {
+      "private": 360,
+      "tourist": 383
+    }
+  },
+  {
+    "test_code": "4118",
+    "test_name": "PORPHYRINS chromatography - urine",
+    "prices": {
+      "private": 1240,
+      "tourist": 1397
+    }
+  },
+  {
+    "test_code": "4132",
+    "test_name": "POTASSIUM (K)",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "4133",
+    "test_name": "POTASSIUM/D-U24h",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4136",
+    "test_name": "PREGNANDIOL",
+    "prices": {
+      "private": 500,
+      "tourist": 563
+    }
+  },
+  {
+    "test_code": "4144",
+    "test_name": "PROGESTERONE",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4146",
+    "test_name": "PROLACTIN",
+    "prices": {
+      "private": 120,
+      "tourist": 159
+    }
+  },
+  {
+    "test_code": "4153",
+    "test_name": "PSA  TOTAL(Prostate specific Ag)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4154",
+    "test_name": "PROTEIN ,UPRO (URINE)",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4155",
+    "test_name": "PROTEIN TOTAL",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4157",
+    "test_name": "PROTEIN-U24h",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4165",
+    "test_name": "PROTEIN ELECTROPHORESIS  Blood",
+    "prices": {
+      "private": 530,
+      "tourist": 761
+    }
+  },
+  {
+    "test_code": "4166",
+    "test_name": "COMPLEMENT C3",
+    "prices": {
+      "private": 280,
+      "tourist": 398
+    }
+  },
+  {
+    "test_code": "4167",
+    "test_name": "PROTEIN ELECTROPHORESIS Urine",
+    "prices": {
+      "private": 280,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "4168",
+    "test_name": "COMPLEMENT C4",
+    "prices": {
+      "private": 280,
+      "tourist": 398
+    }
+  },
+  {
+    "test_code": "4185",
+    "test_name": "BENCE JONES (URINE)",
+    "prices": {
+      "private": 410,
+      "tourist": 462
+    }
+  },
+  {
+    "test_code": "4244",
+    "test_name": "RENIN (Plasma renin activity, RPA)",
+    "prices": {
+      "private": 420,
+      "tourist": 447
+    }
+  },
+  {
+    "test_code": "4260",
+    "test_name": "SEROTONIN",
+    "prices": {
+      "private": 240,
+      "tourist": 269
+    }
+  },
+  {
+    "test_code": "4295",
+    "test_name": "SODIUM (Na)",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "4296",
+    "test_name": "SODIUM-U24h",
+    "prices": {
+      "private": 25,
+      "tourist": 32
+    }
+  },
+  {
+    "test_code": "4301",
+    "test_name": "TTG ( transglutaminase) IgG",
+    "prices": {
+      "private": 340,
+      "tourist": 478
+    }
+  },
+  {
+    "test_code": "4402",
+    "test_name": "TESTOSTERONE TOTAL",
+    "prices": {
+      "private": 120,
+      "tourist": 119
+    }
+  },
+  {
+    "test_code": "4403",
+    "test_name": "TESTOSTERONE BIOAVAILABL",
+    "prices": {
+      "private": 260,
+      "tourist": 291
+    }
+  },
+  {
+    "test_code": "4406",
+    "test_name": "TESTOSTERON FREE",
+    "prices": {
+      "private": 250,
+      "tourist": 360
+    }
+  },
+  {
+    "test_code": "4420",
+    "test_name": "AMINOPHYLLINE",
+    "prices": {
+      "private": 330,
+      "tourist": 363
+    }
+  },
+  {
+    "test_code": "4435",
+    "test_name": "T4",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4439",
+    "test_name": "FREE T4",
+    "prices": {
+      "private": 65,
+      "tourist": 66
+    }
+  },
+  {
+    "test_code": "4443",
+    "test_name": "TSH (Thyroid stimulating hormone)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4450",
+    "test_name": "AST (GOT) Aspartate aminotransferase",
+    "prices": {
+      "private": 55,
+      "tourist": 57
+    }
+  },
+  {
+    "test_code": "4460",
+    "test_name": "ALT (GPT) Alanine amino transferase",
+    "prices": {
+      "private": 55,
+      "tourist": 57
+    }
+  },
+  {
+    "test_code": "4466",
+    "test_name": "TRANSFERRIN",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4478",
+    "test_name": "TRIGLYCERIDES",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4480",
+    "test_name": "T3",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4481",
+    "test_name": "FREE T3",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4484",
+    "test_name": "TROPONIN - I",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "4520",
+    "test_name": "UREA",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "45201",
+    "test_name": "BUN-U24h",
+    "prices": {
+      "private": 90,
+      "tourist": 99
+    }
+  },
+  {
+    "test_code": "4540",
+    "test_name": "UREA (URINE)",
+    "prices": {
+      "private": 75,
+      "tourist": 76
+    }
+  },
+  {
+    "test_code": "4545",
+    "test_name": "UREA CLEARENCE TEST UC",
+    "prices": {
+      "private": 180,
+      "tourist": 198
+    }
+  },
+  {
+    "test_code": "4550",
+    "test_name": "UIRC ACID",
+    "prices": {
+      "private": 30,
+      "tourist": 30
+    }
+  },
+  {
+    "test_code": "4551",
+    "test_name": "URIC ACID -U24h",
+    "prices": {
+      "private": 75,
+      "tourist": 77
+    }
+  },
+  {
+    "test_code": "4560",
+    "test_name": "URIC ACID (URINE)",
+    "prices": {
+      "private": 75,
+      "tourist": 76
+    }
+  },
+  {
+    "test_code": "4590",
+    "test_name": "VITAMIN A",
+    "prices": {
+      "private": 230,
+      "tourist": 240
+    }
+  },
+  {
+    "test_code": "4591",
+    "test_name": "VITAMINE E",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "4629",
+    "test_name": "צואה לקלוסטרידיום  PCR",
+    "prices": {
+      "private": 500,
+      "tourist": 564
+    }
+  },
+  {
+    "test_code": "4630",
+    "test_name": "ZINC",
+    "prices": {
+      "private": 340,
+      "tourist": 364
+    }
+  },
+  {
+    "test_code": "4631",
+    "test_name": "תרבית אף (MRSA- PCR)",
+    "prices": {
+      "private": 500,
+      "tourist": 537
+    }
+  },
+  {
+    "test_code": "4632",
+    "test_name": "VRE-PCR",
+    "prices": {
+      "private": 500,
+      "tourist": 537
+    }
+  },
+  {
+    "test_code": "4702",
+    "test_name": "BHCG-היריון",
+    "prices": {
+      "private": 160,
+      "tourist": 163
+    }
+  },
+  {
+    "test_code": "4800",
+    "test_name": "PSEUDO CHOLINESTERASE",
+    "prices": {
+      "private": 280,
+      "tourist": 315
+    }
+  },
+  {
+    "test_code": "4806",
+    "test_name": "ELASTASE (stool)",
+    "prices": {
+      "private": 730,
+      "tourist": 780
+    }
+  },
+  {
+    "test_code": "4919",
+    "test_name": "CORTICOSTEROIDS 17-OH -U24h",
+    "prices": {
+      "private": 530,
+      "tourist": 565
+    }
+  },
+  {
+    "test_code": "4979",
+    "test_name": "IGRA",
+    "prices": {
+      "private": 930,
+      "tourist": 1159
+    }
+  },
+  {
+    "test_code": "5000",
+    "test_name": "BLEEDING TIME",
+    "prices": {
+      "private": 140,
+      "tourist": 144
+    }
+  },
+  {
+    "test_code": "50001",
+    "test_name": "מע'-ביקור בית",
+    "prices": {
+      "private": 180,
+      "tourist": 193
+    }
+  },
+  {
+    "test_code": "5021",
+    "test_name": "Cell Count ? Body fluid (ספירת תאים בנוזלי גוף)",
+    "prices": {
+      "private": 190,
+      "tourist": 207
+    }
+  },
+  {
+    "test_code": "5022",
+    "test_name": "CBC",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "5023",
+    "test_name": "CBC DIFF HA",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "5024",
+    "test_name": "CB-HA",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "5032",
+    "test_name": "צביעת משטח דם ומח עצם ידני",
+    "prices": {
+      "private": 200,
+      "tourist": 223
+    }
+  },
+  {
+    "test_code": "5044",
+    "test_name": "RETICULOCYTES MANUAL",
+    "prices": {
+      "private": 120,
+      "tourist": 119
+    }
+  },
+  {
+    "test_code": "51772",
+    "test_name": "LIPIDS_PANEL",
+    "prices": {
+      "private": 80,
+      "tourist": 83
+    }
+  },
+  {
+    "test_code": "5210",
+    "test_name": "FACTOR 2-PROTROMBIN",
+    "prices": {
+      "private": 360,
+      "tourist": 382
+    }
+  },
+  {
+    "test_code": "5220",
+    "test_name": "FACTOR 5",
+    "prices": {
+      "private": 470,
+      "tourist": 502
+    }
+  },
+  {
+    "test_code": "5221",
+    "test_name": "FACTOR VII",
+    "prices": {
+      "private": 360,
+      "tourist": 382
+    }
+  },
+  {
+    "test_code": "5230",
+    "test_name": "LUPUS Circulating Anticoagulant (LAC)",
+    "prices": {
+      "private": 590,
+      "tourist": 627
+    }
+  },
+  {
+    "test_code": "5231",
+    "test_name": "LUPUS ANTICOAGULANT RVVT",
+    "prices": {
+      "private": 410,
+      "tourist": 458
+    }
+  },
+  {
+    "test_code": "5232",
+    "test_name": "פרופיל צליאק (TTG+IGA )",
+    "prices": {
+      "private": 830,
+      "tourist": 1242
+    }
+  },
+  {
+    "test_code": "5240",
+    "test_name": "FACTOR 8-ANTIGEN",
+    "prices": {
+      "private": 470,
+      "tourist": 495
+    }
+  },
+  {
+    "test_code": "5250",
+    "test_name": "FACTOR 9",
+    "prices": {
+      "private": 520,
+      "tourist": 555
+    }
+  },
+  {
+    "test_code": "5260",
+    "test_name": "MTHFR",
+    "prices": {
+      "private": 550,
+      "tourist": 622
+    }
+  },
+  {
+    "test_code": "5261",
+    "test_name": "FACTOR V LEIDEN R506Q",
+    "prices": {
+      "private": 550,
+      "tourist": 622
+    }
+  },
+  {
+    "test_code": "5262",
+    "test_name": "FII G20210A (DNA)",
+    "prices": {
+      "private": 550,
+      "tourist": 622
+    }
+  },
+  {
+    "test_code": "5270",
+    "test_name": "FACTOR 11",
+    "prices": {
+      "private": 360,
+      "tourist": 382
+    }
+  },
+  {
+    "test_code": "5271",
+    "test_name": "FACTOR X",
+    "prices": {
+      "private": 360,
+      "tourist": 382
+    }
+  },
+  {
+    "test_code": "52710",
+    "test_name": "FACTOR Xa",
+    "prices": {
+      "private": 600,
+      "tourist": 671
+    }
+  },
+  {
+    "test_code": "5272",
+    "test_name": "FACTOR XII",
+    "prices": {
+      "private": 880,
+      "tourist": 933
+    }
+  },
+  {
+    "test_code": "5291",
+    "test_name": "FACTOR XIII",
+    "prices": {
+      "private": 470,
+      "tourist": 502
+    }
+  },
+  {
+    "test_code": "5300",
+    "test_name": "ANTITROMBIN 3",
+    "prices": {
+      "private": 520,
+      "tourist": 548
+    }
+  },
+  {
+    "test_code": "5302",
+    "test_name": "PROTEIN C",
+    "prices": {
+      "private": 640,
+      "tourist": 681
+    }
+  },
+  {
+    "test_code": "5306",
+    "test_name": "PROTEIN S",
+    "prices": {
+      "private": 530,
+      "tourist": 566
+    }
+  },
+  {
+    "test_code": "5335",
+    "test_name": "C ESTERASE INHIBITOR",
+    "prices": {
+      "private": 300,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "5362",
+    "test_name": "FIBRINOGEN.P",
+    "prices": {
+      "private": 880,
+      "tourist": 933
+    }
+  },
+  {
+    "test_code": "5371",
+    "test_name": "FIBRINOGEN",
+    "prices": {
+      "private": 160,
+      "tourist": 164
+    }
+  },
+  {
+    "test_code": "5378",
+    "test_name": "D.DIMER",
+    "prices": {
+      "private": 350,
+      "tourist": 392
+    }
+  },
+  {
+    "test_code": "5443",
+    "test_name": "LYMPHOCYTE subclasses quantitative FACS bloob",
+    "prices": {
+      "private": 4650,
+      "tourist": 4969
+    }
+  },
+  {
+    "test_code": "5460",
+    "test_name": "FREE LIGHT CHAIN",
+    "prices": {
+      "private": 590,
+      "tourist": 623
+    }
+  },
+  {
+    "test_code": "5540",
+    "test_name": "LAP (Leukocyte Alkaline Phosphatase) with count",
+    "prices": {
+      "private": 470,
+      "tourist": 502
+    }
+  },
+  {
+    "test_code": "5610",
+    "test_name": "PT+PTT",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "5651",
+    "test_name": "ESR ( BLOOD SEDIMENTATION RATE)",
+    "prices": {
+      "private": 45,
+      "tourist": 64
+    }
+  },
+  {
+    "test_code": "5670",
+    "test_name": "PROTHROMBIN",
+    "prices": {
+      "private": 110,
+      "tourist": 115
+    }
+  },
+  {
+    "test_code": "6003",
+    "test_name": "Q. Fever Phase 1&2  panel",
+    "prices": {
+      "private": 550,
+      "tourist": 615
+    }
+  },
+  {
+    "test_code": "6004",
+    "test_name": "BRUCELLA,Ab,SCREEN TEST",
+    "prices": {
+      "private": 410,
+      "tourist": 459
+    }
+  },
+  {
+    "test_code": "6006",
+    "test_name": "RICKETTSSIA Ab",
+    "prices": {
+      "private": 590,
+      "tourist": 661
+    }
+  },
+  {
+    "test_code": "6007",
+    "test_name": "TPHA  SYPHILIS",
+    "prices": {
+      "private": 300,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "6015",
+    "test_name": "CYSTATIN C",
+    "prices": {
+      "private": 410,
+      "tourist": 575
+    }
+  },
+  {
+    "test_code": "6026",
+    "test_name": "ANTI CENTROMERE",
+    "prices": {
+      "private": 300,
+      "tourist": 332
+    }
+  },
+  {
+    "test_code": "6035",
+    "test_name": "Anti AChR",
+    "prices": {
+      "private": 470,
+      "tourist": 503
+    }
+  },
+  {
+    "test_code": "6036",
+    "test_name": "ANTI CCP",
+    "prices": {
+      "private": 240,
+      "tourist": 269
+    }
+  },
+  {
+    "test_code": "6037",
+    "test_name": "ANTI RO (SS-A)",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "6038",
+    "test_name": "ANTI RNP",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "6039",
+    "test_name": "ANA (Antinuclear antibodies)",
+    "prices": {
+      "private": 410,
+      "tourist": 580
+    }
+  },
+  {
+    "test_code": "6040",
+    "test_name": "ANTI LA (SS-B)",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "6041",
+    "test_name": "ANTI SM AB",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "6063",
+    "test_name": "ANTISTREPTOLISIN",
+    "prices": {
+      "private": 200,
+      "tourist": 217
+    }
+  },
+  {
+    "test_code": "6076",
+    "test_name": "GAD (GLUTAMIC ACID DECARBOXYL)",
+    "prices": {
+      "private": 360,
+      "tourist": 401
+    }
+  },
+  {
+    "test_code": "6082",
+    "test_name": "סוג דם ו-RH",
+    "prices": {
+      "private": 230,
+      "tourist": 244
+    }
+  },
+  {
+    "test_code": "6115",
+    "test_name": "RH ANTIBODIES COOMBS",
+    "prices": {
+      "private": 140,
+      "tourist": 172
+    }
+  },
+  {
+    "test_code": "6131",
+    "test_name": "CA125",
+    "prices": {
+      "private": 75,
+      "tourist": 76
+    }
+  },
+  {
+    "test_code": "6134",
+    "test_name": "NSE (Neuron specific enolase), tumor antigen",
+    "prices": {
+      "private": 220,
+      "tourist": 235
+    }
+  },
+  {
+    "test_code": "6135",
+    "test_name": "CA 15.3",
+    "prices": {
+      "private": 80,
+      "tourist": 83
+    }
+  },
+  {
+    "test_code": "6136",
+    "test_name": "BARBITURATES (URINE)",
+    "prices": {
+      "private": 320,
+      "tourist": 342
+    }
+  },
+  {
+    "test_code": "6137",
+    "test_name": "COPPER (URINE)",
+    "prices": {
+      "private": 130,
+      "tourist": 134
+    }
+  },
+  {
+    "test_code": "6138",
+    "test_name": "COPPER/24h",
+    "prices": {
+      "private": 270,
+      "tourist": 298
+    }
+  },
+  {
+    "test_code": "6139",
+    "test_name": "CRP (C-REACTIVE PROTEIN)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "6146",
+    "test_name": "C-PEPTIDE",
+    "prices": {
+      "private": 230,
+      "tourist": 240
+    }
+  },
+  {
+    "test_code": "6147",
+    "test_name": "CARDIOLIPIN IgG",
+    "prices": {
+      "private": 120,
+      "tourist": 119
+    }
+  },
+  {
+    "test_code": "6148",
+    "test_name": "CARDIOLIPIN IgM",
+    "prices": {
+      "private": 120,
+      "tourist": 119
+    }
+  },
+  {
+    "test_code": "6149",
+    "test_name": "BETA 2 GLYCOPROTEIN IgG",
+    "prices": {
+      "private": 190,
+      "tourist": 212
+    }
+  },
+  {
+    "test_code": "6153",
+    "test_name": "CA 19.9",
+    "prices": {
+      "private": 170,
+      "tourist": 174
+    }
+  },
+  {
+    "test_code": "6225",
+    "test_name": "DNA DOUBLE STRAND (ds-DNA)",
+    "prices": {
+      "private": 1250,
+      "tourist": 1406
+    }
+  },
+  {
+    "test_code": "6227",
+    "test_name": "DNA SINGLE STRAND (ss-DNA)",
+    "prices": {
+      "private": 220,
+      "tourist": 248
+    }
+  },
+  {
+    "test_code": "6235",
+    "test_name": "ENA 2",
+    "prices": {
+      "private": 200,
+      "tourist": 214
+    }
+  },
+  {
+    "test_code": "6245",
+    "test_name": "AFP (ALFA FETO PROTEIN)",
+    "prices": {
+      "private": 60,
+      "tourist": 61
+    }
+  },
+  {
+    "test_code": "6255",
+    "test_name": "CMV IgG (CYTOMEGALOVIRUS IgG)",
+    "prices": {
+      "private": 430,
+      "tourist": 484
+    }
+  },
+  {
+    "test_code": "6256",
+    "test_name": "CMV IgM (CYTOMEGALOVIRUS IgM)",
+    "prices": {
+      "private": 390,
+      "tourist": 413
+    }
+  },
+  {
+    "test_code": "6257",
+    "test_name": "ANTI PARIETOL CELL.ANTI",
+    "prices": {
+      "private": 300,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "6258",
+    "test_name": "CMV IgG Avidity (CYTOMEGALOVIRUS Avidity)",
+    "prices": {
+      "private": 620,
+      "tourist": 697
+    }
+  },
+  {
+    "test_code": "6259",
+    "test_name": "CMV quantitative PCR",
+    "prices": {
+      "private": 1170,
+      "tourist": 1250
+    }
+  },
+  {
+    "test_code": "6280",
+    "test_name": "RUBELLA  IgG",
+    "prices": {
+      "private": 210,
+      "tourist": 221
+    }
+  },
+  {
+    "test_code": "6281",
+    "test_name": "RUBELLA  IgM",
+    "prices": {
+      "private": 210,
+      "tourist": 221
+    }
+  },
+  {
+    "test_code": "6287",
+    "test_name": "HEPATITIS B (HBs Ag)",
+    "prices": {
+      "private": 130,
+      "tourist": 175
+    }
+  },
+  {
+    "test_code": "6288",
+    "test_name": "HEPATITIS B (HBcAb ,Total)",
+    "prices": {
+      "private": 100,
+      "tourist": 102
+    }
+  },
+  {
+    "test_code": "6289",
+    "test_name": "HEPATITIS B (HBc Ab)",
+    "prices": {
+      "private": 110,
+      "tourist": 114
+    }
+  },
+  {
+    "test_code": "6290",
+    "test_name": "AUSTRALIAN ANTIGEN+HCV",
+    "prices": {
+      "private": 450,
+      "tourist": 504
+    }
+  },
+  {
+    "test_code": "6291",
+    "test_name": "HEPATITIS B (HBs Ab)",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "6293",
+    "test_name": "HEPATITIS B (HBe Ag)",
+    "prices": {
+      "private": 140,
+      "tourist": 143
+    }
+  },
+  {
+    "test_code": "6294",
+    "test_name": "HEPATITIS B (HBe Ab)",
+    "prices": {
+      "private": 140,
+      "tourist": 143
+    }
+  },
+  {
+    "test_code": "6296",
+    "test_name": "HEPATITIS A Total",
+    "prices": {
+      "private": 140,
+      "tourist": 149
+    }
+  },
+  {
+    "test_code": "6297",
+    "test_name": "HEPATITIS A (HAAb) IgM",
+    "prices": {
+      "private": 170,
+      "tourist": 182
+    }
+  },
+  {
+    "test_code": "6298",
+    "test_name": "NORMETNEPHRINE",
+    "prices": {
+      "private": 800,
+      "tourist": 794
+    }
+  },
+  {
+    "test_code": "6299",
+    "test_name": "CHROMOGRANIN A",
+    "prices": {
+      "private": 890,
+      "tourist": 882
+    }
+  },
+  {
+    "test_code": "6300",
+    "test_name": "HEPATITIS E RT-PCR",
+    "prices": {
+      "private": 750,
+      "tourist": 847
+    }
+  },
+  {
+    "test_code": "6302",
+    "test_name": "HEPATITIS C (HCV Ab)",
+    "prices": {
+      "private": 60,
+      "tourist": 61
+    }
+  },
+  {
+    "test_code": "6304",
+    "test_name": "HEPATITIS D (Delta Ab)",
+    "prices": {
+      "private": 165,
+      "tourist": 237
+    }
+  },
+  {
+    "test_code": "6311",
+    "test_name": "HIV Ab",
+    "prices": {
+      "private": 130,
+      "tourist": 174
+    }
+  },
+  {
+    "test_code": "6315",
+    "test_name": "VALPROIC DEPAKIN",
+    "prices": {
+      "private": 330,
+      "tourist": 349
+    }
+  },
+  {
+    "test_code": "6316",
+    "test_name": "EBV IgM",
+    "prices": {
+      "private": 330,
+      "tourist": 363
+    }
+  },
+  {
+    "test_code": "6317",
+    "test_name": "EBV IgG",
+    "prices": {
+      "private": 330,
+      "tourist": 363
+    }
+  },
+  {
+    "test_code": "6320",
+    "test_name": "IgM Ab (immunoglobulin)",
+    "prices": {
+      "private": 430,
+      "tourist": 645
+    }
+  },
+  {
+    "test_code": "6321",
+    "test_name": "IgG Ab (immunoglobulin)",
+    "prices": {
+      "private": 430,
+      "tourist": 645
+    }
+  },
+  {
+    "test_code": "6322",
+    "test_name": "IgA Ab (immunoglobulin)",
+    "prices": {
+      "private": 430,
+      "tourist": 645
+    }
+  },
+  {
+    "test_code": "6323",
+    "test_name": "BETA2-MICROGLOBULIN",
+    "prices": {
+      "private": 490,
+      "tourist": 513
+    }
+  },
+  {
+    "test_code": "6324",
+    "test_name": "FACTOR  VWF ( 8 ristocetin)",
+    "prices": {
+      "private": 1080,
+      "tourist": 1156
+    }
+  },
+  {
+    "test_code": "6331",
+    "test_name": "SMAC",
+    "prices": {
+      "private": 140,
+      "tourist": 146
+    }
+  },
+  {
+    "test_code": "6332",
+    "test_name": "SMA",
+    "prices": {
+      "private": 85,
+      "tourist": 88
+    }
+  },
+  {
+    "test_code": "6337",
+    "test_name": "INSULIN Ab",
+    "prices": {
+      "private": 460,
+      "tourist": 488
+    }
+  },
+  {
+    "test_code": "6358",
+    "test_name": "LYMPHOCYTE subclasses quantitative  (במח עצם) FACS-BM",
+    "prices": {
+      "private": 3730,
+      "tourist": 3985
+    }
+  },
+  {
+    "test_code": "6360",
+    "test_name": "MONOTEST",
+    "prices": {
+      "private": 140,
+      "tourist": 149
+    }
+  },
+  {
+    "test_code": "6376",
+    "test_name": "ANTI MICROSOMAL Ab  (Liver kidney)",
+    "prices": {
+      "private": 300,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "6378",
+    "test_name": "HELICOBACTER Ab",
+    "prices": {
+      "private": 80,
+      "tourist": 83
+    }
+  },
+  {
+    "test_code": "6392",
+    "test_name": "HIT (HEPARINE INDUCED TROMBOCYTOPENIA)",
+    "prices": {
+      "private": 3290,
+      "tourist": 3716
+    }
+  },
+  {
+    "test_code": "6393",
+    "test_name": "ACETYL CHOLINE RECEPTOR Ab",
+    "prices": {
+      "private": 570,
+      "tourist": 643
+    }
+  },
+  {
+    "test_code": "64153",
+    "test_name": "PSA  FREE (Prostate specific Ag)",
+    "prices": {
+      "private": 150,
+      "tourist": 154
+    }
+  },
+  {
+    "test_code": "6420",
+    "test_name": "IgE Ab (immunoglobulin)",
+    "prices": {
+      "private": 810,
+      "tourist": 908
+    }
+  },
+  {
+    "test_code": "6431",
+    "test_name": "RHEUMATOID FACTOR (RF)",
+    "prices": {
+      "private": 120,
+      "tourist": 159
+    }
+  },
+  {
+    "test_code": "6534",
+    "test_name": "BETA 2 GLYCOPROTEIN IgM",
+    "prices": {
+      "private": 190,
+      "tourist": 212
+    }
+  },
+  {
+    "test_code": "6592",
+    "test_name": "VDRL",
+    "prices": {
+      "private": 190,
+      "tourist": 202
+    }
+  },
+  {
+    "test_code": "6600",
+    "test_name": "TOXOPLASMA  IgM",
+    "prices": {
+      "private": 130,
+      "tourist": 129
+    }
+  },
+  {
+    "test_code": "6601",
+    "test_name": "TOXOPLASMA IgG",
+    "prices": {
+      "private": 210,
+      "tourist": 231
+    }
+  },
+  {
+    "test_code": "6759",
+    "test_name": "צואה  ROTAVIRUS Ag",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "6800",
+    "test_name": "ANTI THYROGLOBULIN",
+    "prices": {
+      "private": 120,
+      "tourist": 159
+    }
+  },
+  {
+    "test_code": "6810",
+    "test_name": "IgG subclasses (immunoglobulin Ig)",
+    "prices": {
+      "private": 1150,
+      "tourist": 1229
+    }
+  },
+  {
+    "test_code": "6880",
+    "test_name": "COOMBS DIRECT (DAT)",
+    "prices": {
+      "private": 240,
+      "tourist": 249
+    }
+  },
+  {
+    "test_code": "7000",
+    "test_name": "פנל בדיקות קרדיוסקאן",
+    "prices": {
+      "private": 0,
+      "tourist": 0
+    }
+  },
+  {
+    "test_code": "7041",
+    "test_name": "תרבית דם אירובי",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7042",
+    "test_name": "תרבית דם אנאירובי",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7045",
+    "test_name": "FECES CULTURE",
+    "prices": {
+      "private": 560,
+      "tourist": 798
+    }
+  },
+  {
+    "test_code": "70456",
+    "test_name": "MYCOPLASMA (pneumoniae) IgM",
+    "prices": {
+      "private": 360,
+      "tourist": 397
+    }
+  },
+  {
+    "test_code": "70457",
+    "test_name": "MYCOPLASMA (pneumoniae) IgG",
+    "prices": {
+      "private": 360,
+      "tourist": 397
+    }
+  },
+  {
+    "test_code": "7047",
+    "test_name": "תרבית זרע",
+    "prices": {
+      "private": 270,
+      "tourist": 286
+    }
+  },
+  {
+    "test_code": "7052",
+    "test_name": "תרבית וגינלית",
+    "prices": {
+      "private": 250,
+      "tourist": 281
+    }
+  },
+  {
+    "test_code": "70522",
+    "test_name": "תרבית כיח",
+    "prices": {
+      "private": 240,
+      "tourist": 267
+    }
+  },
+  {
+    "test_code": "70524",
+    "test_name": "תרבית עין",
+    "prices": {
+      "private": 240,
+      "tourist": 267
+    }
+  },
+  {
+    "test_code": "70526",
+    "test_name": "תרבית אף",
+    "prices": {
+      "private": 150,
+      "tourist": 153
+    }
+  },
+  {
+    "test_code": "70527",
+    "test_name": "GENERAL CULTURE",
+    "prices": {
+      "private": 240,
+      "tourist": 267
+    }
+  },
+  {
+    "test_code": "70528",
+    "test_name": "תרבית מאוזן",
+    "prices": {
+      "private": 240,
+      "tourist": 267
+    }
+  },
+  {
+    "test_code": "7060",
+    "test_name": "תרבית גרון",
+    "prices": {
+      "private": 150,
+      "tourist": 154
+    }
+  },
+  {
+    "test_code": "7070",
+    "test_name": "תרבית פצע",
+    "prices": {
+      "private": 240,
+      "tourist": 267
+    }
+  },
+  {
+    "test_code": "7085",
+    "test_name": "תרבית שתן ורגישות",
+    "prices": {
+      "private": 340,
+      "tourist": 386
+    }
+  },
+  {
+    "test_code": "710106",
+    "test_name": "פנל ויזה ניו זילנד",
+    "prices": {
+      "private": 800,
+      "tourist": 902
+    }
+  },
+  {
+    "test_code": "7116",
+    "test_name": "תרבית כיח לשחפת (MYCOBACTERIA CULTURE -TB)",
+    "prices": {
+      "private": 630,
+      "tourist": 671
+    }
+  },
+  {
+    "test_code": "7154",
+    "test_name": "TOXOPLASMA PCR",
+    "prices": {
+      "private": 1920,
+      "tourist": 2169
+    }
+  },
+  {
+    "test_code": "7171",
+    "test_name": "Mycobacterium tuberculosis/Rifampin resistant gene-PCR",
+    "prices": {
+      "private": 1310,
+      "tourist": 1479
+    }
+  },
+  {
+    "test_code": "7180",
+    "test_name": "HEPATITIS C QUANTITY (HCV PCR) Viral lode",
+    "prices": {
+      "private": 2950,
+      "tourist": 3156
+    }
+  },
+  {
+    "test_code": "7181",
+    "test_name": "HEPATITIS B (HBV PCR)",
+    "prices": {
+      "private": 2900,
+      "tourist": 3278
+    }
+  },
+  {
+    "test_code": "7183",
+    "test_name": "HEPATITIS C GENOTYPE (HCV PCR)",
+    "prices": {
+      "private": 2950,
+      "tourist": 3156
+    }
+  },
+  {
+    "test_code": "7201",
+    "test_name": "METHOTREXATE",
+    "prices": {
+      "private": 270,
+      "tourist": 301
+    }
+  },
+  {
+    "test_code": "7203",
+    "test_name": "HERPES SIMPLEX  (IgM Ab)",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7204",
+    "test_name": "HERPES SIMPLEX  (IgG Ab)",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7205",
+    "test_name": "DENGUE",
+    "prices": {
+      "private": 560,
+      "tourist": 805
+    }
+  },
+  {
+    "test_code": "7207",
+    "test_name": "ADENOVIRUS Ab",
+    "prices": {
+      "private": 400,
+      "tourist": 446
+    }
+  },
+  {
+    "test_code": "7208",
+    "test_name": "MUMPS Ab IgG",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7210",
+    "test_name": "MUMPS Ab IgM",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7211",
+    "test_name": "MEASLES Ab IgG",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7213",
+    "test_name": "MEASLES Ab IgM",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7214",
+    "test_name": "VARICELLA ZOSTER IgG",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7215",
+    "test_name": "VARICELLA ZOSTER IgM",
+    "prices": {
+      "private": 560,
+      "tourist": 628
+    }
+  },
+  {
+    "test_code": "7253",
+    "test_name": "GALACTOMANNAN ASPERGILLUS Ag",
+    "prices": {
+      "private": 880,
+      "tourist": 943
+    }
+  },
+  {
+    "test_code": "7255",
+    "test_name": "T-SPOT",
+    "prices": {
+      "private": 1890,
+      "tourist": 2138
+    }
+  },
+  {
+    "test_code": "7402",
+    "test_name": "BHCG  - T.M ( tumor marker",
+    "prices": {
+      "private": 60,
+      "tourist": 80
+    }
+  },
+  {
+    "test_code": "7640",
+    "test_name": "Apixaban(Eliquis)",
+    "prices": {
+      "private": 320,
+      "tourist": 392
+    }
+  },
+  {
+    "test_code": "7800",
+    "test_name": "H1N1 PCR",
+    "prices": {
+      "private": 500,
+      "tourist": 592
+    }
+  },
+  {
+    "test_code": "78220",
+    "test_name": "LIVER FUNCTION TEST",
+    "prices": {
+      "private": 150,
+      "tourist": 160
+    }
+  },
+  {
+    "test_code": "78221",
+    "test_name": "LIVER 9  TEST",
+    "prices": {
+      "private": 1020,
+      "tourist": 1462
+    }
+  },
+  {
+    "test_code": "8020",
+    "test_name": "LIPOPROTEIN (a)",
+    "prices": {
+      "private": 55,
+      "tourist": 58
+    }
+  },
+  {
+    "test_code": "80202",
+    "test_name": "ISOENZYMES CPK",
+    "prices": {
+      "private": 460,
+      "tourist": 490
+    }
+  },
+  {
+    "test_code": "80203",
+    "test_name": "VISA CANADA - פנל",
+    "prices": {
+      "private": 559,
+      "tourist": 397
+    }
+  },
+  {
+    "test_code": "80204",
+    "test_name": "VISA (URINE) פנל",
+    "prices": {
+      "private": 55,
+      "tourist": 63
+    }
+  },
+  {
+    "test_code": "80205",
+    "test_name": "ויזה קנדה קלוטניק",
+    "prices": {
+      "private": 320,
+      "tourist": 460
+    }
+  },
+  {
+    "test_code": "80206",
+    "test_name": "VISA AUSTRALIA(U+HIV) פנל",
+    "prices": {
+      "private": 200,
+      "tourist": 216
+    }
+  },
+  {
+    "test_code": "80298",
+    "test_name": "Keppra (Levetiracetam quantitative)-blood",
+    "prices": {
+      "private": 310,
+      "tourist": 386
+    }
+  },
+  {
+    "test_code": "81001",
+    "test_name": "Drug Screen Urine",
+    "prices": {
+      "private": 245,
+      "tourist": 352
+    }
+  },
+  {
+    "test_code": "82017",
+    "test_name": "ACYLCARNITIN בטיפה יבשה",
+    "prices": {
+      "private": 1090,
+      "tourist": 1156
+    }
+  },
+  {
+    "test_code": "82060",
+    "test_name": "EBV, PCR- CSF",
+    "prices": {
+      "private": 770,
+      "tourist": 871
+    }
+  },
+  {
+    "test_code": "82062",
+    "test_name": "Herpes simplex  (HSV), PCR-CSF",
+    "prices": {
+      "private": 980,
+      "tourist": 1104
+    }
+  },
+  {
+    "test_code": "82103",
+    "test_name": "ALPHA-1-ANTITRYPSIN",
+    "prices": {
+      "private": 730,
+      "tourist": 826
+    }
+  },
+  {
+    "test_code": "82172",
+    "test_name": "APOLIPOPROTEIN B",
+    "prices": {
+      "private": 210,
+      "tourist": 231
+    }
+  },
+  {
+    "test_code": "82180",
+    "test_name": "VITAMIN C ,ascorbic acid",
+    "prices": {
+      "private": 230,
+      "tourist": 258
+    }
+  },
+  {
+    "test_code": "8219",
+    "test_name": "FISH עם 4 פרובים בממוצע+הפרדת תאים",
+    "prices": {
+      "private": 4750,
+      "tourist": 5076
+    }
+  },
+  {
+    "test_code": "8220",
+    "test_name": "FISH עם 4 פרובים בממוצע",
+    "prices": {
+      "private": 3300,
+      "tourist": 3527
+    }
+  },
+  {
+    "test_code": "8221",
+    "test_name": "ביופסיה של מוח עצם BMB",
+    "prices": {
+      "private": 3340,
+      "tourist": 3592
+    }
+  },
+  {
+    "test_code": "8222",
+    "test_name": "FISH עם פרוב אחד",
+    "prices": {
+      "private": 2380,
+      "tourist": 2542
+    }
+  },
+  {
+    "test_code": "82239",
+    "test_name": "תבחין פירוק מלחי מרה",
+    "prices": {
+      "private": 480,
+      "tourist": 599
+    }
+  },
+  {
+    "test_code": "82433",
+    "test_name": "CHLORIDES (URINE)",
+    "prices": {
+      "private": 55,
+      "tourist": 58
+    }
+  },
+  {
+    "test_code": "8244",
+    "test_name": "PROTEIN CSF",
+    "prices": {
+      "private": 320,
+      "tourist": 356
+    }
+  },
+  {
+    "test_code": "82726",
+    "test_name": "IEF של טרנספרין",
+    "prices": {
+      "private": 1550,
+      "tourist": 1656
+    }
+  },
+  {
+    "test_code": "82946",
+    "test_name": "GLUCOSE 75g",
+    "prices": {
+      "private": 210,
+      "tourist": 231
+    }
+  },
+  {
+    "test_code": "82947",
+    "test_name": "GLUCOSE POST GLUCOSE",
+    "prices": {
+      "private": 210,
+      "tourist": 231
+    }
+  },
+  {
+    "test_code": "82948",
+    "test_name": "ELECTROLYTES",
+    "prices": {
+      "private": 45,
+      "tourist": 44
+    }
+  },
+  {
+    "test_code": "82949",
+    "test_name": "ELECTROLYTES (URINE)",
+    "prices": {
+      "private": 140,
+      "tourist": 149
+    }
+  },
+  {
+    "test_code": "82955",
+    "test_name": "CICLOSPORIN",
+    "prices": {
+      "private": 400,
+      "tourist": 446
+    }
+  },
+  {
+    "test_code": "82956",
+    "test_name": "ANTISTREPTOLYSIN 0:TITER",
+    "prices": {
+      "private": 200,
+      "tourist": 217
+    }
+  },
+  {
+    "test_code": "83015",
+    "test_name": "מתכות כבדות",
+    "prices": {
+      "private": 330,
+      "tourist": 369
+    }
+  },
+  {
+    "test_code": "8347",
+    "test_name": "Tryptase",
+    "prices": {
+      "private": 1810,
+      "tourist": 2259
+    }
+  },
+  {
+    "test_code": "83529",
+    "test_name": "BLOOD UNIT",
+    "prices": {
+      "private": 350,
+      "tourist": 396
+    }
+  },
+  {
+    "test_code": "83866",
+    "test_name": "בדיקת שתן למוקופוליסכרידים ואוליגוסכרידים",
+    "prices": {
+      "private": 500,
+      "tourist": 534
+    }
+  },
+  {
+    "test_code": "838796",
+    "test_name": "PCR JAK2  דם/מח עצם אקסון",
+    "prices": {
+      "private": 2200,
+      "tourist": 2748
+    }
+  },
+  {
+    "test_code": "83880",
+    "test_name": "BNP (BRAIN NATRIURETIC PEPTIDE)",
+    "prices": {
+      "private": 370,
+      "tourist": 418
+    }
+  },
+  {
+    "test_code": "83896",
+    "test_name": "אבחון מולקולרי, ממאירות המטולוגית",
+    "prices": {
+      "private": 2200,
+      "tourist": 2743
+    }
+  },
+  {
+    "test_code": "83898",
+    "test_name": "PCR-RT כמותי למח עצם",
+    "prices": {
+      "private": 5320,
+      "tourist": 6639
+    }
+  },
+  {
+    "test_code": "83899",
+    "test_name": "PCR-RT  ABL-BCR",
+    "prices": {
+      "private": 5360,
+      "tourist": 5732
+    }
+  },
+  {
+    "test_code": "83918",
+    "test_name": "בדיקת שתן לחומצות אורגניות",
+    "prices": {
+      "private": 1020,
+      "tourist": 1083
+    }
+  },
+  {
+    "test_code": "84063",
+    "test_name": "ANTI MICROSOMAL Ab ( thyroid ) TPO",
+    "prices": {
+      "private": 450,
+      "tourist": 480
+    }
+  },
+  {
+    "test_code": "84305",
+    "test_name": "IGF1 INSULIN-Like Growth Factor 1  (somatomedin C)",
+    "prices": {
+      "private": 410,
+      "tourist": 462
+    }
+  },
+  {
+    "test_code": "86021",
+    "test_name": "SMOTH MUSCLE Ab",
+    "prices": {
+      "private": 300,
+      "tourist": 332
+    }
+  },
+  {
+    "test_code": "86022",
+    "test_name": "ANTI MITOCHONDRIAL",
+    "prices": {
+      "private": 300,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "86024",
+    "test_name": "ANTI JO 1",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "86025",
+    "test_name": "ANTI SCL-70",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "86026",
+    "test_name": "ANTI INTRINSIC FACTOR",
+    "prices": {
+      "private": 280,
+      "tourist": 330
+    }
+  },
+  {
+    "test_code": "86027",
+    "test_name": "HISTONES Ab",
+    "prices": {
+      "private": 300,
+      "tourist": 332
+    }
+  },
+  {
+    "test_code": "86255",
+    "test_name": "Paraneoplastic Panel",
+    "prices": {
+      "private": 1580,
+      "tourist": 2264
+    }
+  },
+  {
+    "test_code": "86256",
+    "test_name": "פאנל אוטואימיוני מלא",
+    "prices": {
+      "private": 2480,
+      "tourist": 3099
+    }
+  },
+  {
+    "test_code": "8629",
+    "test_name": "בדיקת נשיפה",
+    "prices": {
+      "private": 290,
+      "tourist": 416
+    }
+  },
+  {
+    "test_code": "8632",
+    "test_name": "בדיקת אוליגוקלונל  דם / CSF",
+    "prices": {
+      "private": 1590,
+      "tourist": 2273
+    }
+  },
+  {
+    "test_code": "86320",
+    "test_name": "IMMUNOELECTROPHORESIS (אימונופיקסציה)",
+    "prices": {
+      "private": 500,
+      "tourist": 531
+    }
+  },
+  {
+    "test_code": "86325",
+    "test_name": "LIPID ELECTROPHORESIS",
+    "prices": {
+      "private": 50,
+      "tourist": 49
+    }
+  },
+  {
+    "test_code": "86360",
+    "test_name": "LYMPHOCYTES MARKERS  CD4, CD8 (BLOOD)",
+    "prices": {
+      "private": 4960,
+      "tourist": 5304
+    }
+  },
+  {
+    "test_code": "86813",
+    "test_name": "HLA B51",
+    "prices": {
+      "private": 2600,
+      "tourist": 3249
+    }
+  },
+  {
+    "test_code": "86900",
+    "test_name": "סוג דם",
+    "prices": {
+      "private": 190,
+      "tourist": 239
+    }
+  },
+  {
+    "test_code": "86901",
+    "test_name": "סוג דם+הצלבה",
+    "prices": {
+      "private": 670,
+      "tourist": 709
+    }
+  },
+  {
+    "test_code": "86922",
+    "test_name": "מנת דם",
+    "prices": {
+      "private": 650,
+      "tourist": 772
+    }
+  },
+  {
+    "test_code": "8701",
+    "test_name": "תרבית פטריות",
+    "prices": {
+      "private": 280,
+      "tourist": 314
+    }
+  },
+  {
+    "test_code": "87162",
+    "test_name": "ISOENZYMES LDH",
+    "prices": {
+      "private": 470,
+      "tourist": 529
+    }
+  },
+  {
+    "test_code": "87171",
+    "test_name": "EBV, PCR- Blood",
+    "prices": {
+      "private": 960,
+      "tourist": 1087
+    }
+  },
+  {
+    "test_code": "87172",
+    "test_name": "PCR TCR (T Cell Receptor)",
+    "prices": {
+      "private": 2190,
+      "tourist": 2736
+    }
+  },
+  {
+    "test_code": "87252",
+    "test_name": "Herpes virus-6 - PCR (HAAV6 -PCR)",
+    "prices": {
+      "private": 770,
+      "tourist": 871
+    }
+  },
+  {
+    "test_code": "87280",
+    "test_name": "VITAMIN D PCR",
+    "prices": {
+      "private": 770,
+      "tourist": 866
+    }
+  },
+  {
+    "test_code": "87536",
+    "test_name": "HIV viral load",
+    "prices": {
+      "private": 3490,
+      "tourist": 3730
+    }
+  },
+  {
+    "test_code": "88160",
+    "test_name": "שתן לציטולוגיה",
+    "prices": {
+      "private": 320,
+      "tourist": 342
+    }
+  },
+  {
+    "test_code": "8830",
+    "test_name": "HEMOGLOBINN ELECTROPHORESIS, PANEL",
+    "prices": {
+      "private": 200,
+      "tourist": 209
+    }
+  },
+  {
+    "test_code": "88347",
+    "test_name": "אימונופלורסנציה",
+    "prices": {
+      "private": 1730,
+      "tourist": 2161
+    }
+  },
+  {
+    "test_code": "8880",
+    "test_name": "ELE'URE'CRE תפקודי כליה",
+    "prices": {
+      "private": 400,
+      "tourist": 446
+    }
+  },
+  {
+    "test_code": "8881",
+    "test_name": "GL'UR'ELE'CRE'CBC'PT",
+    "prices": {
+      "private": 500,
+      "tourist": 561
+    }
+  },
+  {
+    "test_code": "8882",
+    "test_name": "GL UR ELE CRE CBC פנל",
+    "prices": {
+      "private": 400,
+      "tourist": 446
+    }
+  },
+  {
+    "test_code": "8883",
+    "test_name": "GLU'ELE'URE'CRE מחלקה",
+    "prices": {
+      "private": 310,
+      "tourist": 345
+    }
+  },
+  {
+    "test_code": "8888",
+    "test_name": "Procalcitonin",
+    "prices": {
+      "private": 95,
+      "tourist": 103
+    }
+  },
+  {
+    "test_code": "89051",
+    "test_name": "CELL COUNT - body fluids",
+    "prices": {
+      "private": 230,
+      "tourist": 239
+    }
+  },
+  {
+    "test_code": "89193",
+    "test_name": "NMDA-N-methyl-D-aspartate receptor",
+    "prices": {
+      "private": 640,
+      "tourist": 689
+    }
+  },
+  {
+    "test_code": "89194",
+    "test_name": "תרבית רקטלית  VRE and CRE",
+    "prices": {
+      "private": 150,
+      "tourist": 153
+    }
+  },
+  {
+    "test_code": "89195",
+    "test_name": "CRE - PCR",
+    "prices": {
+      "private": 530,
+      "tourist": 571
+    }
+  },
+  {
+    "test_code": "8999",
+    "test_name": "COMPLIMENT TOTAL",
+    "prices": {
+      "private": 120,
+      "tourist": 134
+    }
+  },
+  {
+    "test_code": "9000",
+    "test_name": "VDRL כמותי",
+    "prices": {
+      "private": 410,
+      "tourist": 462
+    }
+  },
+  {
+    "test_code": "9010",
+    "test_name": "HEPATITIS A Ab (HAAb) IgG",
+    "prices": {
+      "private": 170,
+      "tourist": 182
+    }
+  },
+  {
+    "test_code": "91220",
+    "test_name": "בדיקת וירוסים רספרטורים",
+    "prices": {
+      "private": 770,
+      "tourist": 1102
+    }
+  },
+  {
+    "test_code": "9203",
+    "test_name": "TROPONOZOMA CRUZI",
+    "prices": {
+      "private": 120,
+      "tourist": 133
+    }
+  },
+  {
+    "test_code": "9204",
+    "test_name": "LAMICTAL (LAMOTRIGINE)",
+    "prices": {
+      "private": 510,
+      "tourist": 573
+    }
+  },
+  {
+    "test_code": "9205",
+    "test_name": "צואה לדם סמוי (OCCULT BLOOD)",
+    "prices": {
+      "private": 150,
+      "tourist": 154
+    }
+  },
+  {
+    "test_code": "9206",
+    "test_name": "E-COLI   בצואה",
+    "prices": {
+      "private": 790,
+      "tourist": 1135
+    }
+  },
+  {
+    "test_code": "9227",
+    "test_name": "ADENOVIRUS ,PCR-CSF",
+    "prices": {
+      "private": 630,
+      "tourist": 704
+    }
+  },
+  {
+    "test_code": "A6318",
+    "test_name": "APC-R",
+    "prices": {
+      "private": 710,
+      "tourist": 798
+    }
+  }
+]

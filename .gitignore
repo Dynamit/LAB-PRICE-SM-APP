@@ -1,0 +1,12 @@
+# Excel source files — only the generated JSON is committed (see tools/build_data.py)
+*.xlsx
+*.xls
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (not used, but just in case)
+node_modules/
